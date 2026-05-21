@@ -1,6 +1,6 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-05-21T06:36:33.332631",
+  "actualizado": "2026-05-21T07:21:45.362578",
   "total": 1000,
   "canales": [
     {
@@ -41,6 +41,13 @@
     {
       "nombre": "The Punisher: La última muerte (2026) | Castellano",
       "url": "http://vodlat.top:8080/movie/Rrodriguez/Robert202304/638026.mp4",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "The Punisher: La última muerte (2026)",
+      "url": "http://vodlat.top:8080/movie/Rrodriguez/Robert202304/638023.mp4",
       "calidad": "SD",
       "categoria": "General",
       "confianza": 100
@@ -6992,13 +6999,6 @@
     {
       "nombre": "Dos supersuperesbirros (1983)",
       "url": "http://tv.diablotv.net:8080/movie/medinaliliam/0eebe2fec35a/137335.mkv",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 100
-    },
-    {
-      "nombre": "El Americano (2016)",
-      "url": "http://tv.diablotv.net:8080/movie/medinaliliam/0eebe2fec35a/137336.mkv",
       "calidad": "SD",
       "categoria": "General",
       "confianza": 100
