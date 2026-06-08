@@ -1,18 +1,11 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-06-07T21:16:00.326512",
-  "total": 2,
+  "actualizado": "2026-06-08T14:02:58.721116",
+  "total": 1,
   "canales": [
     {
-      "nombre": "EL MUNDIAL 3:",
-      "url": "http://gol-tv.online:80/Ernesto/Ernesto/973696",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 60
-    },
-    {
-      "nombre": "EL MUNDIAL 7:",
-      "url": "http://gol-tv.online:80/Ernesto/Ernesto/973700",
+      "nombre": "PPV 2 - PPV 2 (e)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198898",
       "calidad": "SD",
       "categoria": "General",
       "confianza": 60
