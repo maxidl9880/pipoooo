@@ -1,13 +1,209 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-06-08T14:02:58.721116",
-  "total": 1,
+  "actualizado": "2026-06-09T22:42:07.240113",
+  "total": 29,
   "canales": [
     {
-      "nombre": "PPV 2 - PPV 2 (e)(720)",
+      "nombre": "PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198897",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV 2 - Francia vs. Irlanda del Norte (e)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198898",
       "calidad": "SD",
       "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV 3 - Perú vs. España (e)(1080+)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198899",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 COL (PM)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9516",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 COL (e)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9517",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 ARG (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9521",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 ARG (i)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9520",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 ARG (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9522",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 CHI (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/99538",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 CHI (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/99539",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 CHI (e)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179479",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 1 MEX (L)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9523",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 ARG (e)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9526",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 COL (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9529",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 COL (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179486",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 MEX (L)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9530",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 SUR (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179489",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn  3 ARG (Z)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179492",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 ARG (L)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9533",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 ARG (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9534",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 CH (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179495",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 COL (M)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9532",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 MEX (M)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9536",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 Sur (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179498",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 4 (TV)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9538",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 4 COL (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179509",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 4 MEX (M)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9537",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 4 MX (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179502",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES - Espn 5 (M)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9539",
+      "calidad": "SD",
+      "categoria": "Deportes",
       "confianza": 60
     }
   ]
