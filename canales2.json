@@ -1,6 +1,6 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-06-10T22:39:04.952848",
+  "actualizado": "2026-06-10T22:44:54.752291",
   "total": 1000,
   "canales": [
     {
@@ -398,6 +398,13 @@
     {
       "nombre": "DEPORTES - Fox Sports 1 ARG (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9576",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Fox Sports 1 COL (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577",
       "calidad": "SD",
       "categoria": "Deportes",
       "confianza": 100
@@ -1446,6 +1453,13 @@
       "confianza": 100
     },
     {
+      "nombre": "CINE - Cinecanal (Z)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9631",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
       "nombre": "CINE - CineCanal (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9630",
       "calidad": "SD",
@@ -1453,102 +1467,88 @@
       "confianza": 100
     },
     {
-      "nombre": "DEPORTES - Fox Sports 1 COL (TV)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "CINE - Cinecanal (Z)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9631",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
       "nombre": "CINE - Cinema Dinamita (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9632",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Fox Sports 3 COL (TV)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 90
-    },
-    {
-      "nombre": "DEPORTES - Fox Sports Premium (Z)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 100
     },
     {
       "nombre": "CINE - Cinemax (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9635",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 100
     },
     {
       "nombre": "CINE - Cinemax (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9633",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 100
     },
     {
       "nombre": "CINE - Comedy Central (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9636",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Fox Sports 3 COL (TV)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 95
+    },
+    {
+      "nombre": "DEPORTES - Fox Sports Premium (Z)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 95
     },
     {
       "nombre": "CINE - De Pelicula (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9638",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE - Comedy Central (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9637",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE - De Pelicula Plus (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9639",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE - DHE (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9643",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE - De Película (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9642",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE - Distrito Comedia (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9644",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE - El Gourmet (M)(1080)",
