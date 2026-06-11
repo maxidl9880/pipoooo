@@ -1,11 +1,18 @@
 {
   "lista": "Lista JSON 1",
-  "actualizado": "2026-06-10T22:29:27.498121",
+  "actualizado": "2026-06-10T22:39:02.761573",
   "total": 1000,
   "canales": [
     {
       "nombre": "PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198897",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "PPV 4 - PPV 4 (e)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198900",
       "calidad": "SD",
       "categoria": "General",
       "confianza": 100
@@ -67,6 +74,13 @@
       "confianza": 100
     },
     {
+      "nombre": "DEPORTES - Espn 1 MEX (i)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9525",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
       "nombre": "DEPORTES - Espn 1 CHI (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/99539",
       "calidad": "SD",
@@ -74,8 +88,22 @@
       "confianza": 100
     },
     {
+      "nombre": "DEPORTES - Espn 2 ARG (PM)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9527",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
       "nombre": "DEPORTES - Espn 1 CHI (e)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179479",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 ARG (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9528",
       "calidad": "SD",
       "categoria": "Deportes",
       "confianza": 100
@@ -97,6 +125,13 @@
     {
       "nombre": "DEPORTES - Espn 2 COL (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9529",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Espn 2 MEX (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9531",
       "calidad": "SD",
       "categoria": "Deportes",
       "confianza": 100
@@ -139,6 +174,13 @@
     {
       "nombre": "DEPORTES - Espn 3 ARG (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9534",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Espn 3 COL (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179493",
       "calidad": "SD",
       "categoria": "Deportes",
       "confianza": 100
@@ -200,6 +242,13 @@
       "confianza": 100
     },
     {
+      "nombre": "DEPORTES - Espn 5 AR (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179517",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
       "nombre": "DEPORTES - Espn 5 (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9539",
       "calidad": "SD",
@@ -242,6 +291,20 @@
       "confianza": 100
     },
     {
+      "nombre": "DEPORTES - Espn Deportes (MEX) (M)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9544",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Espn Extra ARG (L)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9545",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
       "nombre": "DEPORTES - Espn Deportes (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179504",
       "calidad": "SD",
@@ -258,6 +321,20 @@
     {
       "nombre": "DEPORTES - Espn News (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179490",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - ESPN Premium ARG (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9550",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "DEPORTES - Espn Premium ARG (Z)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179511",
       "calidad": "SD",
       "categoria": "Deportes",
       "confianza": 100
@@ -1285,1320 +1362,1243 @@
       "confianza": 100
     },
     {
-      "nombre": "PPV 4 - PPV 4 (e)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198900",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn 1 MEX (i)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9525",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn 2 ARG (PM)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9527",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn 2 ARG (Z)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9528",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn 2 MEX (TV)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9531",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn 3 COL (Z)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179493",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn 5 AR (Z)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179517",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn Deportes (MEX) (M)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9544",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn Extra ARG (L)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9545",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - ESPN Premium ARG (TV)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9550",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Espn Premium ARG (Z)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179511",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
       "nombre": "CINE - Warner Channel (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9776",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - AMC (L)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9619",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - Warner Channel Dual Audio (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9775",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - AMC (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9702",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - AMC (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9620",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - AXN (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9625",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - AXN (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9623",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - AXN (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9624",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - A3 Series (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9618",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - Cine Latino (L)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9626",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - Cine Latino (Z)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9627",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE - CineCanal (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9629",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "DEPORTES - Fox Sports 1 COL (TV)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 100
     },
     {
       "nombre": "CINE - CineCanal (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9630",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 100
     },
     {
-      "nombre": "DEPORTES - Fox Sports 3 COL (TV)(720)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590",
+      "nombre": "DEPORTES - Fox Sports 1 COL (TV)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
-    },
-    {
-      "nombre": "DEPORTES - Fox Sports Premium (Z)(1080)",
-      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 95
     },
     {
       "nombre": "CINE - Cinecanal (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9631",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 95
     },
     {
       "nombre": "CINE - Cinema Dinamita (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9632",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 95
+    },
+    {
+      "nombre": "DEPORTES - Fox Sports 3 COL (TV)(720)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 90
+    },
+    {
+      "nombre": "DEPORTES - Fox Sports Premium (Z)(1080)",
+      "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 90
     },
     {
       "nombre": "CINE - Cinemax (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9635",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Cinemax (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9633",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Comedy Central (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9636",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - De Pelicula (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9638",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Comedy Central (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9637",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - De Pelicula Plus (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9639",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - DHE (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9643",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - De Película (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9642",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Distrito Comedia (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9644",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - El Gourmet (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9647",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - E! (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9646",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Europa Europa (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9648",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Filmex (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9640",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Film & Arts (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9649",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Filmex Clasico (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9641",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Food Network (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9651",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9657",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Edge (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9658",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Plus (L)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9660",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Edge (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9659",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Premier 2 (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9663",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Plus (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9662",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Plus (M)(1080) [Dual Audio]",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9661",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Premiere (M)(1080) [Dual Audio]",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9664",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Golden Premiere 2 (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9665",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Lifetime (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9703",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Paramount (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9705",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Showtime Extreme (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9709",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Sony Channel (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9711",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Showtime West Dual (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9710",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Sony Channel (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9712",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Sony Cine (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9713",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Sony Novelas (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9716",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Space (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9717",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Space (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9718",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Star TVE (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9726",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Starz Comedy (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9728",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Starz Family (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9731",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE - Studio Universal (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9732",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CINE - Syfy (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9735",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CINE - TBS (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9738",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CINE - TCM (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9740",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CINE - TBS Very Funny (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9739",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CINE - TCM (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9741",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Animal Planet (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9811",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Animal Planet (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9813",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Animal Planet (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9780",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Animal Planet (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9812",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Comedy Central (Z)(1080).",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9781",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Channel (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9814",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Channel (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9816",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Familia (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9817",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Channel (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9782",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery FAMILIA (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9783",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery H&H (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9784",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Familia (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9818",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery HGTV (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9819",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Home & Health (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9821",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery Home & Health (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9820",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "DOC-Discovery ID (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9785",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Science (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9822",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Science (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9823",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Science (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9786",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Theater (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9787",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Theater (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9824",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Theater (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9788",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery TLC (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9825",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery TLC (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9826",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery TLC (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9827",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery TURBO (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9829",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Turbo (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9830",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery Turbo (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9789",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery World (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9831",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery World (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9832",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery World (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9833",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery World (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9834",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Food Network (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9792",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-DW En Español (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9791",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Discovery World (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9790",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Glitz (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9794",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-Garage TV (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9793",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "DOC-H2 (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9836",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Gourmet (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9795",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-H2 (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9837",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-HGTV (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9796",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-History (L)(1080) (1080p)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9838",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-History (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9797",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-History 2 (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9839",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-History 2 (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9798",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-History Channel (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9840",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-History Channel (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9841",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Hola TV (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9799",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Investigation Discovery (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9844",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Investigation Discovery (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9842",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Investigation Discovery (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9843",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Lifetime (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9800",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Lifetime 2 (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9801",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Love Nature (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9802",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Love Nature (TV)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9845",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Mas Chic (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9803",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-NatGeo (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9847",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-NatGeo (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9846",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Natgeo (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9805",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Natgeo Wild (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9807",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-NatGeo Mundo (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9848",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-NatGeo Wild Ñ (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9849",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-Smithsonian Channel (L)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9850",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 70
+      "confianza": 75
     },
     {
       "nombre": "DOC-TLC (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9810",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "DOC-TRU TV (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9852",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "Reality-Famosos MX | Camara 1 (L)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179560",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Baby First (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9854",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Baby TV (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9855",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Boomerang (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9857",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Cartoon Network (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9858",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Cartoon Network (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9859",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Cartoon Network (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9861",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Cartoonito (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9856",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Discovery Kids (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9862",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Discovery Kids (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9863",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Discovery Kids (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9864",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Discovery Kids (Z)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9865",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Disney Channel (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9866",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Disney Channel (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9867",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Disney JR (L)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9868",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Disney Jr (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9869",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Disney JR (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9870",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nick (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9871",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nick (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9872",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nick 2 (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9874",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nick Jr (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9875",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nick Jr (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9876",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nicktoons (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9882",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nickelodeon (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9879",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Nick JR (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9877",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-TeenNick (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9873",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Tooncast (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9883",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-Bandamax (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8307",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "INF-Tooncast (Z)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9884",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "Liga GT OP2 (Z)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/173681",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-Bandamax (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8308",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-HTV (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8309",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-MTV (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8310",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-MTV Live (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8312",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-Telehit (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8315",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-Telehit (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8316",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-Telehit Plus(M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8317",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-Teleritmo (L)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8318",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-VH1 (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8320",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "MUS-VH1 Mega Hits (M)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8322",
       "calidad": "SD",
       "categoria": "Musica",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-BBC World News (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10250",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-CNN en Español (M)(1080)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10251",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-CNN en Español (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10252",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-CNN USA (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10253",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-DW (M)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10254",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-NTN 24 (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10255",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-NTN24 (TV)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10256",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOT-Wobi (TV)(SD)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/10258",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOV-Galavision Miami (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8333",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOV-Galavision NY (TV)(720)",
       "url": "http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8334",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 65
+      "confianza": 70
     },
     {
       "nombre": "NOV-Galavision NY (Z)(720)",
