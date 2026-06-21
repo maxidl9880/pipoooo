@@ -1,600 +1,1244 @@
 {
   "lista": "Lista JSON 1",
-  "actualizado": "2026-06-21T17:56:10.143576",
-  "total": 85,
+  "actualizado": "2026-06-21T18:14:54.217057",
+  "total": 177,
   "canales": [
     {
       "nombre": "MEGA FHD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "MEGA HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/14090",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "MEGA",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2355",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "MEGA Plus",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6721",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "MEGA 2",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56930",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Meganoticias",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51139",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Mega Ficcion",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75772",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CHV",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/37973",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CHV FHD2",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57368",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CHV FHD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/16018",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CHV HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2356",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CHV Noticias",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51427",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 13",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19621",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CHV Deportes",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56043",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 13 HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2362",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 13 FHD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/16017",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 13 FHD 2",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57369",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13c",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7111",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Cultura",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/53334",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "T13",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6352",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Deportes",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/53333",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Internacional",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51768",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Festival",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57482",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Cocina",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57481",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Viajes",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56768",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Realities",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56769",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Pop",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51769",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "13 Teleseries",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51770",
       "calidad": "SD",
       "categoria": "Series",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TVN",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19622",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TVN HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/45941",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TVN FHD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2359",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TVN FHD 2",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2358",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TVN 24 Horas",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/130479",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TVN 3",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57192",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TV Chile",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "24 Horas",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2360",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "CNN Chile",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2368",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "La Red",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30823",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "La Red FHD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2365",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "La Red HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2364",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TV+",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2366",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "UCV 3 Auto Ajuste SD/HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19628",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "REC TV",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30423",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TV Diputados",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "UCV 3 HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/73",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TV Chile Channel",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30301",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Zona Latina",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56926",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Retro Plus TV",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74738",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Via X",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56929",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Retro Plus 2 HD",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/71508",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "ADN | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76006",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Retro Plus 3",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/71509",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Alternativa TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75804",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Antofagasta TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75793",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Apanines TV ✪ | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75668",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Arica TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75788",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Atacama Noticias",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Atacama TV",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/61",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "ATV Valdivia | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75888",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Aysen TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75903",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Bajo Cero TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75915",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "BioBio TV",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7027",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Caldera Vision TV",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76490",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Camara de Diputados | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75766",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 11 TV Aysen | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75902",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 2 - Quellón",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6775",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 21 - Chillán",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/82",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 30 Loncomilla | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75856",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 5 - Linares",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/77",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 5 Puerto Montt | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75897",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 57 Melipilla | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75836",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 74 TeVe | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75821",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal 9 - Bio-Bio",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/81",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal Alta Frontera | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75874",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal Local | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75823",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal ISB | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76016",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal LOF Aconcagua | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75820",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal Noticias Colchagua | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75838",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal Pais | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75726",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal Turismo Travel TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75785",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Canal SCÑ - San Carlos Ñuble | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75862",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Cappissima Multimedial TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75789",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Caracola TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75775",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Carolina TV 2 | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75922",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Carolina TV | CL",
       "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75921",
       "calidad": "SD",
+      "categoria": "General",
+      "confianza": 65
+    },
+    {
+      "nombre": "Casa Sobre La Roca TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76017",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Cauquenesnet TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75857",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CEAC TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75769",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CDR ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75677",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Cero Anestesia | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75786",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chile Channel | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75783",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CESTV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76028",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chile Tradiciones ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75686",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chilevisual Classic ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75711",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chilevisual Cultura ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75691",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chilevisual Film ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75690",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chilevisual Kids ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75689",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chilevisual Retro ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75688",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Chiloe Red 25 | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75900",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Classic Channel ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75708",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Club TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75876",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Contivision | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75850",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Corcubio TV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75685",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CRTV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75678",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Cultura Online | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75768",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Decima TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75890",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Ekiz TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75843",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EGM Channel | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75776",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El 3 de Conce | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75735",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Conquistador Concepcion | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75991",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Conquistador Santiago | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75989",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Galpon 80 | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75916",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Pingüino TV - Punta Arenas",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/79",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Sembrador | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75990",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Tipografo | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75840",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Enfoque Digital TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75805",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Energia TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75868",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Estudio TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75827",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Eternal Metal ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75672",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Eva Medios | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75729",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Exprezion TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75737",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Extrema TV",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30339",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FM Hit | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75928",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Fortaleza TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76027",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Frecuencia 7 Aconcagua | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75826",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Frecuencia Musical TV | US",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75728",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Freestyledjs ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75717",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "G Vision | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75738",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Gracia TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76015",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Hiper TV",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/33179",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Hito Cero TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75899",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Holvoet TV - Atacama",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Holvoet TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75799",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Huasco TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75803",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Inet TV - Osorno",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/67",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Infinita TV Premium | US",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75727",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Interactiva FM | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75987",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "IPNA Medio | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76023",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Iquique TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75791",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ITV Patagonia",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/39865",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Chilena TV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75676",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Clave | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75996",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Granja TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75736",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Nuestra ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75707",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Popular TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75809",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Red | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75742",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La Voz De Los Que Sobran TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75787",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Lanco TV",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/69231",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Longino TV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75660",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Los Sauces TV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75713",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LRP Television | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75794",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Mega | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75747",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Metanoia TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76021",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Milodon TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75934",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Modatima Petorca TV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75699",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Molina TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75851",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nativa TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75853",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NCTV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76014",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nexovision | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75807",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NTV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75684",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nueva Region TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75859",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nuevo Tiempo",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30341",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Opinionsur TV ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75723",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Origen TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75806",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Pandamax TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75650",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Pauta TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75997",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Pichilemu TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75734",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PinguinoTV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75910",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Pintana TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75733",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PlanetaTV Kids | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75732",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "PlanetaTV Movies ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75675",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PlanetaTV Music ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75674",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Plaza TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75829",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Portal FoxMix ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75649",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Primicia Vida Television ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75703",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Pucon TV | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75880",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Dance FM ✪ | CL",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75720",
+      "calidad": "HD",
       "categoria": "General",
       "confianza": 60
     }
