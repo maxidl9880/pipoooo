@@ -1,6 +1,6 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-06-24T12:30:51.073998",
+  "actualizado": "2026-06-24T12:44:03.720655",
   "total": 1000,
   "canales": [
     {
@@ -2766,903 +2766,903 @@
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327875.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "HYPERMOTION 2 HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/182228.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "VIX AZTECA CORAZON",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327896.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "TL NOVELAS",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327892.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "AZTECA CINEMA HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327876.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "LAS ESTRELLAS -1HR HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327888.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "GOLDEN",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327886.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "DISTRITO COMEDIA HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327884.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "COCINA TV HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327882.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "AZTECA INTERNACIONAL HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/327878.ts",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE SD | UNIVERSAL CHANNEL @",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383530.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE SD | UNIVERSAL REALITY @",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383531.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE SD | UNIVERSAL CINEMA @",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383532.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE SD | UNIVERSAL CRIME",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383533.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE SD | UNIVERSAL COMEDY",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383534.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE SD | UNIVERSAL PREMIERE",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383535.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "STUDIO UNIVERSAL",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383536.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "UNIVERSAL TV",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383537.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE HD | UNIVERSAL CRIME",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383538.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE HD | UNIVERSAL CINEMA @",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383539.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE HD | UNIVERSAL REALITY",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383540.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE FHD | UNIVERSAL",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383541.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE FHD | UNIVERSAL REALITY @",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383542.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE FHD | UNIVERSAL CINEMA @",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383543.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE FHD | UNIVERSAL COMEDY",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383544.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE FHD | UNIVERSAL PREMIERE",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383545.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "STUDIO UNIVERSAL",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383546.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE FHD | UNIVERSAL CRIME",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383547.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "CINE  | A&E HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120052.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 95
+      "confianza": 100
     },
     {
       "nombre": "FITE 24/7 (720p)",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/144822.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | A&E SD enc",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120053.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | AMC HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120090.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | AMC  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120091.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | AXN  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120077.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | AXN  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120076.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | CINEMAX  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120055.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | CINEMAX  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120083.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | CINEMAX HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120054.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | HBO  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120066.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | CINEMAX HD enc",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120082.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120067.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO 2  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120086.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO 2  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120058.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | HBO 2  SD enc",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120059.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | HBO FAMILY  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120064.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | HBO FAMILY  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120065.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO PLUS  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120062.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO PLUS  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120063.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO POP  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120068.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO POP  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120069.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | HBO SIGNATURE  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120061.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | HBO SIGNATURE  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120060.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | TNT  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120070.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | TNT SERIES  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120072.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE  | TNT  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120071.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE |  TNT SERIES  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120073.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | CINE LATINO",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120102.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | CINECANAL  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120074.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | CINECANAL  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120075.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | DE PELICULA",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120111.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | DE PELICULA CLASSIC",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120110.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | DE PELICULA ᴴᴰ",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120109.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | De Pelicula SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120112.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | FX  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120087.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINE | GOLDEN  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120092.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120093.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN EDG  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120094.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN EDG  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120095.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN PLUS HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120100.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN PREMIER  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120096.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN PLUS SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120101.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | GOLDEN PREMIER  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120097.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | PARAMOUNT CHANEL HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120098.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | PARAMOUNT CHANEL SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120099.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | SONY  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120080.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | SONY  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120081.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | SPACE CHANEL  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120088.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | SPACE CHANEL  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120089.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | STAR CHANNEL  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120056.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | STAR CHANNEL  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120057.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | WARNER  HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120078.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CINE | WARNER  SD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120079.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "DHE",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120107.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "P | UNIVERSAL CINEMA HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120105.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "P | UNIVERSAL COMEDY HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120103.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "P | UNIVERSAL CRIMEN HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120106.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "STUDIO UNIVERSAL",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/137714.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "TCM  HD DASH",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/225614.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "SYFY",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/354937.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AXN",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396021.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "ESPN 3",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396022.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "TLR",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396024.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "VIDEO ROLA",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396025.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "11 - Repretel",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396026.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "12661 CNN",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396027.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "13-Sinart",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396028.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "4 Repretel",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396029.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "42 - Extra TV 42",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396030.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "6 - Repretel",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396031.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "A&E",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396032.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "A&E HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396033.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AMC",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396034.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AMC HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396035.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AXN",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396036.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AXN HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396037.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AZ click HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396038.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AZTECA 7 HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396039.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "AZTECA INTER HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396040.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Adult Swim",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396041.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Animal Planet",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396042.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Animal Planet HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396043.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Antena 7- RD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396044.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Azcorazon",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396045.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Azmundo",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396046.ts",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "BANDAMAX",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396047.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "BBC News",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396048.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "Baby First",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396049.ts",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CARTOON NETWORK HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396051.ts",
       "calidad": "SD",
       "categoria": "Infantil",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CDN2- RD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396052.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 85
+      "confianza": 90
     },
     {
       "nombre": "CANAL 5 HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396050.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CDN37 - RD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396053.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CERTV",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396054.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CINECANAL HD",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396055.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CNBC",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396056.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 80
+      "confianza": 85
     },
     {
       "nombre": "CNN",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396057.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "COMEDY CENTRAL",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396058.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "Canal  21 - ESA",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396059.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "Canal 11 - GUA",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396060.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "Canal 11 - HON",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/396061.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 75
+      "confianza": 80
     },
     {
       "nombre": "Canal 12 - ESA",
