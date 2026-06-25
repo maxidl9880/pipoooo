@@ -1,28 +1,28 @@
 {
   "lista": "Lista JSON 1",
-  "actualizado": "2026-06-24T23:34:22.423466",
-  "total": 189,
+  "actualizado": "2026-06-24T23:46:16.153516",
+  "total": 253,
   "canales": [
     {
       "nombre": "24/06 19:30 - Unión La Calera vs Universidad de Chile",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/470410.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "Velada 3 de lss estrellas Nicaragua",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330410.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "M",
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/469797.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 60
+      "confianza": 65
     },
     {
       "nombre": "TV Realitys-CAMARA 2",
@@ -1324,6 +1324,454 @@
       "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434890.ts",
       "calidad": "SD",
       "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  MOTORTREND",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434892.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  MAVTV",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434893.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  FUBO SPORTS NETWORK HD",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434894.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  FIGHT TV",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434895.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  CBS SPORTS NETWORK",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434896.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS USA",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434897.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS ESPANOL",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434899.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS XTRA",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434898.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS 8",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434900.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS 7",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434901.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS 6",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434902.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS 5",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434903.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  FANDUEL SPORTS NETWORK",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434905.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  BEIN SPORTS 4",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434904.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  ESPN DEPORTES",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434906.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA |  ESPN",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434907.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA| SPORTSMAN CHANNEL",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434908.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: 30A Golf Kingdom",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434909.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: ACCDN",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434910.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: BEK TV Sports West",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434911.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: Billiard TV",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434912.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: CBS Sports Golazo Network",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434913.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: CBS Sports HQ",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434914.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: FITE 24/7",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434915.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: FUEL TV",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434916.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: Glory Kickboxing",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434917.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: KCMN-LD6",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434918.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: Lacrosse TV",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434919.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: MLB",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434920.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: NBC Sports Philadelphia",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434921.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: NFL Channel",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434922.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: NHL",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434923.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: PBR RidePass",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434924.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: PGA Tour",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434925.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: PokerGo",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434926.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: Red Bull TV",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434927.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: SportsGrid",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434928.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Bowling Network",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434929.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Boxing",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434930.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Classic Sports",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434931.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Sports",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434932.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Turbo",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434934.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Sports Bureau",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434933.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: TVS Women Sports",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434935.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: Unbeaten",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434936.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA: W14DK-D 14.5 All Sports Television Network",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434937.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "FOX SPORTS 1 USA (FS1)",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434938.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PLUTO ESPANA TV Motor",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294872.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Moto2 y 3 Tests",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294873.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES FORMULA 1 & GP**",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294874.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Superbikes Carrera",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294875.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Superbikes Clasificación",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294876.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Formula 1 TESTS",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294877.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Formula 1 Clasificacion",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294878.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Moto GP Clasificacion",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294879.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Superbikes Tests",
+      "url": "http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294880.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MEGA",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2355",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MEGA HD",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/14090",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MEGA FHD",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MEGA Plus",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6721",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MEGA 2",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56930",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Meganoticias",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51139",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "CHV",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/37973",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Mega Ficcion",
+      "url": "http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75772",
+      "calidad": "SD",
+      "categoria": "General",
       "confianza": 60
     }
   ]
