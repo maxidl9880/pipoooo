@@ -1,7 +1,7 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-06-29T11:32:45.772078",
-  "total": 43,
+  "actualizado": "2026-06-29T11:54:47.720245",
+  "total": 653,
   "canales": [
     {
       "nombre": ">D$P0RT$  ECU HD",
@@ -301,6 +301,4276 @@
       "nombre": "L∆  LlG∆_TV SD",
       "url": "http://p2premium.club:80/live/Ney123/Ney123/406839.ts",
       "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV FHD |opc-3|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406872.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV TV FHD |Mas+|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406871.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV FHD |opc-2|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406873.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV HD |Orange|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406841.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV FHD Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406874.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV FHD Multi_Audio 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406838.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 FHD |Mas+|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406877.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆ LlG∆_TV 2 HDR |Orange|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406832.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 FHD |opc-3|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406865.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 FHD Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406867.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 FHD |opc-2|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406866.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 FHD |opc-1|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406868.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 Multi_audio",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406833.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 2 FHD MultiAudio",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406869.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV FHD| 0",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406870.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 3 FHD |opc-3|",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406860.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 3 FHD |opc-2|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406861.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 3 FHD Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406862.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 3 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406863.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 3 FHD Multi_∆udio(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406864.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 4 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406856.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 4 FHD |opc-2|(Solo_Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406858.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 4 FHD |opc-3|(Solo_Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406857.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 4 FHD Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406859.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 5 FHD |opc-3|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406853.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 5 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406855.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 5 FHD |opc-2|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406854.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 5 Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406835.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 5 Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406876.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 6 FHD |opc-3|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406850.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 6 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406852.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 6 FHD |opc-2|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406851.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 6 Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406875.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 7 FHD |opc-3|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406848.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 6 Orange",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406834.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV |opc-3|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406846.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 8 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406847.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 7 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406849.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 9 FHD |opc-3|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406844.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 9 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406845.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LlG∆ END€SA 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406879.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 10 FHD |opc-3|(Solo Eventos)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406842.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "L∆  LlG∆_TV 10 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406843.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LlG∆ END€SA 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406880.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LlG∆ END€SA 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406881.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LlG∆ END€SA 4",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406882.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LlG∆ END€SA 5",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406883.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "SKYSP0RTS L∆ LlG∆ HD OPC1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406836.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "SKYSP0RTS L∆ LlG∆ HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406837.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376384.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "SKYSP0RTS BUND€S LlG∆ HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406840.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376383.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305949.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305950.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+  FHD OP1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305952.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305954.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+  HD OP2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305951.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 2 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305953.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305956.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/305955.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376370.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376371.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 2 pør_M²+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376374.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$:| LlG∆ Dę Ç∆M₱Ę0NE$ 3 pør_M¹+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376375.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$: LlG∆ Dę Ç∆M₱Ę0NE$ 4 pør_M⁴+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376376.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 5 pør M⁵+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376377.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 6 pør_M⁶+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376378.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 7 pør_M⁷+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376379.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 8 pør_'M™+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376380.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 9 pør_M™+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376381.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 12 pør_M¹²+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376372.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES 12 M+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376385.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIG∆ DE C∆M₱E0NES M+ 13 pør_M¹³+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376373.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR  | E$PN 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81258.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | E$PN 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81259.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | E$PN (¹) HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81262.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | Ę$PN ₱REMlUM HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81254.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR || E$PN PR€MIUM FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/149087.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | F⚽X SPORTS 1 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50506.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50509.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50507.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50508.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | TⓝΤ SPORTS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81251.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR  | TYC SPORTS SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81253.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR ||**T.ŃT*SP0RTS FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81284.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | T*Y*C SPORTS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81252.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81538.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | DEPORT TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/81539.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306498.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "D| T&© Sports",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/361001.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306497.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306486.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306489.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306487.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306490.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 4 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306492.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 4 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306493.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "COMBATE HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306482.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "COMBATE H265",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306484.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "COMBATE SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306483.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FOX SPORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306500.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "FOX SPORTS 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306501.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "SPORTV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306510.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "SPORTV SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306511.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "SPORTV 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306504.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "SPORTV 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306505.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "SPORTV 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306507.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "SPORTV 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306508.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "BAND SPORTS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306479.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TÑT SPORTS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306512.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TÑT SPORTS  2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306513.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TÑT SPORTS 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306514.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TÑT SPORTS 4 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306515.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Premier clues",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306480.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FURACÃO LIVE",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306502.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN EXTRA 4K",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306494.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UFC FIGHT PASS 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306517.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "UFC FIGHT PASS 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306518.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | WIN SPORTS +  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1383.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Win Sports + HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69291.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | WIN SPORTS +  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1384.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Win Sports+ 4K",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/400194.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | WIN SPORTS +  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69293.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Win Sports SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69294.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC l ECDF HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/314939.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC l 3CDF HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/314940.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC : D$ports~ HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/316112.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU: GOLTV PPV (EVENTOS ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/401841.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU: EL CANAL DEL FUTBOL ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/401842.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU: D ECUADOR ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/401843.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | *T*N*T SPORTS HD/OP/ 01",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/276332.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | *T*N*T SPORTS FHD /OP /0",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/276334.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | *T*N*T SPORTS HD / OP / 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/276335.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | *T*N*T SPORTS SD / OP / 03",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/276341.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | *T*N*T SPORTS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/307531.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | *T*N*T SPORTS HD / OP / 04",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/276342.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | ¢DO BASICO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/316111.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | ¢DO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/315926.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TYG⚽ SP⚽RTS 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/160820.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TYG⚽ SP⚽RTS 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/160822.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TYG⚽ SP⚽RTS 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/160821.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Fútbol canal",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/316155.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | L1GA 1 MAX HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306889.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | L1GA 1 MAX HQ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306890.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ¦ L&GA 1 MAX HD OP 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306891.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ¦ L&GA 1 MAX HD OP 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306892.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ¦ L1  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306893.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ¦ a 1 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306894.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS 1 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306883.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS 1 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306884.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306885.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306886.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS + HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306887.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS + SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306888.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | ESPN 1 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306870.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | E$PN 1HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306869.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306871.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306872.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306874.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ESPN 4 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306875.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306873.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ESPN 4 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306876.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 5 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306877.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 6 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306879.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ESPN 5 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306878.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 6 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306880.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 7 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306881.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| E$PN 7 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306882.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| G⚽L P3RU  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306865.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| G⚽L P3RU OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306866.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | MOVISTAR  DEPORTES HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306867.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | MOVISTAR DEPORTES SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306868.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CLARO SPORTS 1 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/475133.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CLARO SPORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/475136.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | TUDN USA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/437846.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | TUDN USA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/314975.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | TUDN MX",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362472.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | TUDN OP 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/314974.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | Azteca 7 | México",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362476.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | AZTECA DEPORTES",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/314976.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | ESPN 2 MX HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/437843.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | Canal 5 | México",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362477.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS  §UNDES£lGA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362470.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362468.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS EVENTS 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362467.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS EVENTS 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362463.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS EVENTS 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362464.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS EVENTS 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362465.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS EVENTS 4",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362466.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV | SPORTS 24",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362469.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PPV |  SPORTS 16",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362462.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Z| *TUDN> MX",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360954.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR | TD+2 HD⭐",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406431.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR: TD+ 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406432.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR | TD+ SD ⭐",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406433.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR: TD+ 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406434.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR | FUTV OPC # 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406439.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EVENTOS COSTA RICA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406440.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR: FUTV OP 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406438.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR | FUTV OP 1 ⭐",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406437.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR | ¥!GO SPORTS HD ⭐",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406435.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306385.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CR | ¥!GO SPORT SD⭐",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/406436.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPN HD OP 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/472221.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306386.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306387.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPN 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306388.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306389.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 4 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306390.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPⓝ 4 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306391.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPⓝ 5 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306392.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 5 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306393.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 6 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306394.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 6 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306395.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN 7 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306396.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPⓝ 7 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306397.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPⓝ PREMIUM AR HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306398.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E$PN PREMIUM AR SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306399.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPN Brasil 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306425.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPN Brasil 4",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306427.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "ESPN Brasil 3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306426.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | F⚽X SPORTS 1 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/99836.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | F⚽X SPORTS 1 SD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/99837.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/100116.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/144412.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306176.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | FOX SPORTS PREMIUM HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306663.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | FOX SPORTS 1 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306299.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | F0X SPORTS 1 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306300.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | FOX SPORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306301.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | F0X SPORTS 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306302.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | FOX SPORTS 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306303.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | F0X SPORTS 3 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306304.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | FOX SPORTS 3 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306175.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS 1SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/417690.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| D$PORTS + HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50724.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | FOX SPORTS PREMIUM SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306664.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | D$PORTS 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50725.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | D$PORTS 2 0PC ²",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50726.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | D$P0RTS + 0PC ²",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/54472.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | D$PORTS + HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/54471.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "⏩ UFC 01 ⏪",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/428790.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE|•FILMS & ∆RTS",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/538270.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "⏩ UFC 02 ⏪",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/428793.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE l P∆NICO HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/538093.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | A&E HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435979.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | A&E SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435982.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | STAR CHANEL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/436007.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | STAR CHANEL SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/436010.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINEMAX HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435991.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINEMAX SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435994.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINECANAL  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1251.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINECANAL  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1252.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AXN  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1254.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AXN  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1255.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AXN  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1257.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TNT SERIES  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1247.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TⓝT  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1244.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | TNT SERIES  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1248.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TÑT  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1245.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE |  TNT SERIES  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1250.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TNT  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1246.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/54.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1240.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435985.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO 2 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435988.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO FAMILY FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/51.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO FAMILY  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO FAMILY  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO PLUS  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/49.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO PLUS  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/50.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO XTREME HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/47.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO XTREME FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/48.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO SIGNATURE  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/46.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO POP  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1242.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO .POP  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1243.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE l P∆R∆M0UNT + HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53938.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO MUNDI HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53939.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO MUNDl FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53937.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SPACE CHANEL  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1280.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SPACE CHANEL  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1281.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | FX  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1276.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SPACE CHANEL  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1282.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | FX  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1275.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE |  TCM  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1267.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINE LATINO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/100681.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | TCM  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1266.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE GOLDEN PLUS FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53940.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN PLUS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53941.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN PLUS SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53942.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN PREMIER  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1293.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN PREMIER  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1294.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | WARNER  FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1258.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | WARNER  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1259.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | WARNER  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1260.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SONY M0VIES FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1261.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SONY  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1263.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SONY  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1264.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1287.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1288.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN EDG  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1290.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN EDG  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1291.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | UNIVERSAL CINEMA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/111421.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | UNIVERSAL COMEDY HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/111417.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | UNIVERSAL CRIMEN HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/111422.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | UNIVERSAL PREMIER HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/111419.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | UNIVERSAL CHANEL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1269.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | UNIVERSAL REALITY HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/111420.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | UNIVERSAL CHANEL  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1270.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | UNIVERSAL STUDIO FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1268.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AMC  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1285.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "EUROPA EUROPA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/317522.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ClNE | AMC SERIES",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/376321.ts",
+      "calidad": "SD",
+      "categoria": "Series",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AMC HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/1284.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "ClNE l °US∆ SERIES",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/346686.ts",
+      "calidad": "SD",
+      "categoria": "Series",
+      "confianza": 60
+    },
+    {
+      "nombre": "ClNE l DHE cine  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/400290.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Channel SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53458.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISCOVERY Science HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53464.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Channel HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53457.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISCOVERY Turbo HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53467.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISCOVERY Turbo SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53468.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISCOVERY World SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53470.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Investigation sd",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53463.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Investigation HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53462.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISCOVERY Theater sd",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53466.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FOOD NETWORK",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/227677.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "HOLA! TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/126560.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EL GOURMET",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53474.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIFETIME HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/128338.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "E! Entretainment FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/122959.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NATGEO HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53489.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "HISTORY HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53481.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ANIMAL Planet HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/54172.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ANIMAL PLANET SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/114382.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "History 2 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53488.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "History 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53483.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CGTN ESPANOL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/435858.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISCOVERY World HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53469.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "TLC SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/126559.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NATGEO FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53492.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Az click",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/315941.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CANAL DE C0ClN∆",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/110241.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Familia HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53473.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TLC HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/126558.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Familia FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53472.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LOVE  NATURALEZA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/118747.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "C∆N∆L DEC∆S∆",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/110244.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "HGTV FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/126561.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Home & Health SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53460.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Discovery Home & Health HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/53459.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NATGEO WILD HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/54171.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICKTOONS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132709.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICKTOONS SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132710.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DISCOVERY KIDS  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132701.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DISCOVERY KIDS SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132702.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DISNEY CHANNEL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132699.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DISNEY CHANNEL SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132700.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DISNEY JR HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132697.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | BABY TV SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132690.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | BABY TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132689.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DISNEY JR SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132698.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICKELODEON HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132711.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | PLiM PLiM",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132712.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICK JR SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132696.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | CARTOONITO SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132708.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | CARTOON NETWORK HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132707.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICK HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132691.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICK SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132692.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | BITME +10",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132694.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | DRE∆MW0RK INFANTIL",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/143797.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | TOONCAST SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132704.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICK 2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132693.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | NICK JR HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132695.ts",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "NIÑOS | TOONCAST HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/132703.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "⏩ EXCLUSIVO⏪",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/475882.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TELEAMAZONAS UIO HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360514.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TELEAMAZONAS UIO SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360515.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TELEAMAZONAS GQUIL  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360512.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TELEAMAZONAS GQUIL SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360513.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUAVISA UIO HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360507.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUAVISA UIO SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360508.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUAVISA GQUIL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360509.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUAVISA GQUIL SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360510.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUAVISA INTER HD Ⓓ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360511.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TC TELEVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360518.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC TC TELEVISION SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360519.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TC INTERNACIONAL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360542.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | OROMAR TV HD Ⓓ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360516.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | OROMAR SD Ⓓ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360517.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | RTS HD Ⓓ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360531.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | RTS SD Ⓓ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360530.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUADOR TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360520.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ⱧECHOS ECUADOR  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360522.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ECUADOR TV SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360521.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ZARACAY TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360525.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | GAMAVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360524.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TV COLOR HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360537.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU || RTVHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/533532.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | AUSTRAL TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360539.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | ASOMAVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360538.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TELERAMA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360527.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU || Canar tv",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/541431.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | MAJESTAD TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360541.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | Canal Uno HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360532.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | TVC  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360528.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | MANAVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360536.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | RTU",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360523.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | Wuan+",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360533.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC I MULTICANAL HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/360526.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU || UNIANDES TV AMBATO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/443039.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | CANELA TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/443036.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU || SONO ONDA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/443042.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ECU || CURIQUINGUE TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/443048.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| AMERICA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306666.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Dragon Ball Z",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/475229.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| AMERICA HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306667.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| LATINA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306668.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| LATINA HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306669.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306671.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306670.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| PANAMERICA HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306673.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| PANAMERICANA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306674.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| WILLAX HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306676.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| WILLAX  SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306677.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| C4N4L N SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306679.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| R.P.P HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306680.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| R.P.P SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306681.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| GLOBAL TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306682.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| GLOBAL TV HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306683.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| EXITOSA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306684.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| EXITOSA SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306685.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| PERU NOTICIAS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306688.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| PERU NOTICIAS SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306689.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | CANAL DEL CONGRESO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306695.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| M0V1ST4R PLU5 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306690.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| M0V1ST4R PLU5 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306691.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | KARIBEÑA TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306692.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306672.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| TV PERU HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306686.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| TV PERU SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306687.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | RTS",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306693.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | JUSTICIA TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306694.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| C4N4L N HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/306678.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR|•M∆R0Ñ∆S• HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/542835.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL 4 ʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52811.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | C.ANAL 4  ꜱᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52812.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | C.ANAL 4 ꜰʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52810.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL 10 ꜰʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52815.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL 10 ꜱᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52817.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL 10 ʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52816.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL TELE 12 ꜰʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52818.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL TELE 12 ꜱᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52820.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | CANAL TELE 12 ʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52819.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52825.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52834.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52835.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52836.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52832.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR |VTV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52833.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | A+V HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52826.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR l ➊ VTV  ᴘʟᴜs ʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/358427.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR l⚽VTV ꜰᴜᴛʙøʟ ꜰʜᴅ⚽",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/347109.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR | TV CIUDAD ʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/52838.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR l ᵀᴺᵁ C∆N∆L 5• ꜱᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/307573.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/135976.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LCDLF ALL-STAR",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/531323.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LCDLF 2026 COLOMBIA OPC.4",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/442701.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "GRAN HERMANO 24/7",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/454926.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LCDLF 2026 COLOMBIA OPC.1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/440467.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "GRAN HERMANO CAM 1",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/454927.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LCDLF 2026 COLOMBIA OPC.2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/440468.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "GRAN HERMANO CAM 2 [0ndeman]",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/454928.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LCDLF 2026 COLOMBIA OPC.3",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/440469.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "GRAN HERMANO CAM 3 [0ndemand]",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/454929.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "GRAN HERMANO MULTICAMARA 0ndemand",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/454930.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/453157.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | TELEFUTURO HD **",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154284.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | TELEFUTURO SD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154285.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | C9N NOTICIAS SD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154287.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | C9N NOTICIAS HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154286.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | NOTICIAS PY HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154296.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | NOTICIAS PY SD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154297.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | RPC HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154290.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | SNT HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154289.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | UNICANAL HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154302.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | GEN TV HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154294.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | GEN SD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154295.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | LA TELE HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154292.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | FARRA PLAY HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154303.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | MI TV HD*",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154304.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | SUR TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154293.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EVENTO 01",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154298.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PY | paravision",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154291.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Evento 02.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154299.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Evento 03",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154300.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Evento 04",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/154301.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CARACOL FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69253.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CARACOL HD 01",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69250.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CARACOL HD 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69251.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CARACOL MUNDIAL 2026",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69252.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CARACOL 4K",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/400089.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Caracol Internacional HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69257.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Caracol Internacional",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69255.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | RCN HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69266.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | RCN HD 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69268.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | RCN HD 03",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69270.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | RCN HD 05",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/541557.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | RCN HD 04",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/541558.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | RCN Novelas HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69271.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Pasiones HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69264.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Pasiones SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69265.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | TV AGRO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69288.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CTV BARRANQUILLA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69245.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Cable Noticias HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69241.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Cablenoticias",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69242.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Canal Uno HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69248.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | CITY TV SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69259.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Telecaribe HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69280.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | NTN24",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69263.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | TeleAntioquia",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69275.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Señal Colombia HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69272.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | TeleAntioquia HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69276.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Telemedellin FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69283.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Telemedellin HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69284.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Telecafé HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69278.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Telecafé",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69277.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | TeleCaribe",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69279.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Telepacifico",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69285.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Canal Capital HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69244.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | El Tiempo HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69261.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | City TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69260.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | Señal Colombia SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69273.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | CANAL 13  HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/209.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | CANAL 13 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55270.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | La kalle",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/69287.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | CANAL 13 HD OP 02",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55271.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | CHILEVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55272.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | CHILEVISION SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55274.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | MEGA HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55275.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | MEGA HD OP 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55277.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | MEGA SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55276.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | TVN. HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55278.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | TVN  HD OP 2",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55279.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL |  ETC TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55280.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | LA RED HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55281.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | TV CHILE",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/55282.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | TELETRAK HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/151590.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RED UNO LA PAZ HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262709.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RED UNO SANTA CRUZ HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262707.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RED UNO COCHABANBA HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262711.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : UNITEL LA PAZ HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262715.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : UNITEL SANTA CRUZ HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262713.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : ATB LA PAZ HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262721.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : UNITEL COCHABANBA HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262717.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : ATB SATA CRUZ HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262719.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : ATB COCHABANBA HD.",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262723.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RED PAT SANTA CRUZ HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262725.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : BOLIVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262729.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : BOLIVIA TV 7.2 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262737.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RED PAT LA PAZ HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262728.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : BOLIVIA TV 7.1 HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262736.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RED GIGAVISION HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262731.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ABYA YALA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/295550.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BOL : RTP HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/262733.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Of tv",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/295551.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | MILENIO TV HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321073.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | CANAL ONCE FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321065.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ADN 40",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362401.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZ CINEMA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362402.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "Az click",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362403.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZTECA 7 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362406.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZ MUNDO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362405.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZTECA 7 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362407.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZTECA UNO FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362408.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZTECA UNO SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362409.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "BITME",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362410.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CANAL 10 Cancún",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362411.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CANAL 28 Nueva Leon",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362412.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "¢@NAL 5 FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362413.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CANAL 5 SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362414.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FORO TV FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362415.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FORO TV SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362416.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Az click",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362418.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LAS ESTRELLAS FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362419.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LAS ESTRELLAS SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362420.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MEXIQUENSE TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362421.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MILENIO",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362422.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NU9VE TV FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362423.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NU9VE TV SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362424.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TELEFORMULA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362425.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AZ CORAZON",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362404.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "IMAGEN TV FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/362417.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: Unicable",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/315007.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | AZ CLIC!",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321044.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | AZ MUNDO HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321047.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | FORO TV FHD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321067.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | AZ CORAZÓN SD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321045.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | CANAL DE LAS ESTRELLAS HD",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321062.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | ADN 40",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321041.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX | AZ CINEMA",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/321046.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404307.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || A+ 7.2 HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404305.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || A+ HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404306.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || ADN40 FHD/HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404309.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404308.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || ITV Deportes HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404310.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX || Alcarria TV HD®",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/404312.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "EC | COTEL TV",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/372093.ts",
+      "calidad": "HD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UR l 'C∆N∆L L∆ RED ʜᴅ",
+      "url": "http://p2premium.club:80/live/Ney123/Ney123/437206.ts",
+      "calidad": "HD",
       "categoria": "General",
       "confianza": 60
     }
