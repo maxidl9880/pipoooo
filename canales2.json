@@ -1,6 +1,6 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-07-02T10:03:18.715070",
+  "actualizado": "2026-07-02T11:00:19.510422",
   "total": 1000,
   "canales": [
     {
@@ -105,7 +105,7 @@
       "nombre": "*>F0X °MUNDl∆L>2026",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/541542.ts",
       "calidad": "SD",
-      "categoria": "General",
+      "categoria": "Deportes",
       "confianza": 80
     },
     {
