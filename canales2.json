@@ -1,6 +1,6 @@
 {
   "lista": "Lista JSON 2",
-  "actualizado": "2026-07-07T05:14:38.615728",
+  "actualizado": "2026-07-07T07:27:26.464392",
   "total": 1000,
   "canales": [
     {
@@ -3973,6 +3973,2197 @@
       "confianza": 100
     },
     {
+      "nombre": "CO | Señal Colombia HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69272.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | TeleAntioquia HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69276.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | TeleAntioquia",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69275.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Telecafé HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69278.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Telemedellin HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69284.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Telemedellin FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69283.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | TeleCaribe",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69279.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Telepacifico",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69285.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Telecafé",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69277.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | El Tiempo HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69261.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | City TV HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69260.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Canal Capital HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69244.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | Señal Colombia SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69273.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | CANAL 13  HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/209.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CO | La kalle",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69287.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | CHILEVISION HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55272.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | CANAL 13 SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55270.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | CANAL 13 HD OP 02",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55271.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | MEGA HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55275.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | CHILEVISION SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55274.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | MEGA HD OP 2",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55277.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | TVN. HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55278.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | TVN  HD OP 2",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55279.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | MEGA SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55276.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL |  ETC TV",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55280.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | LA RED HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55281.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | TV CHILE",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55282.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RED UNO LA PAZ HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262709.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CL | TELETRAK HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/151590.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RED UNO SANTA CRUZ HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262707.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : UNITEL LA PAZ HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262715.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : UNITEL SANTA CRUZ HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262713.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RED UNO COCHABANBA HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262711.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : ATB LA PAZ HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262721.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : UNITEL COCHABANBA HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262717.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : ATB COCHABANBA HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262723.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RED PAT SANTA CRUZ HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262725.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : ATB SATA CRUZ HD.",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262719.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RED PAT LA PAZ HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262728.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : BOLIVISION HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262729.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : BOLIVIA TV 7.2 HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262737.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : BOLIVIA TV 7.1 HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262736.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RED GIGAVISION HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262731.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "ABYA YALA",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/295550.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "Of tv",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/295551.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | MILENIO TV HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321073.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BOL : RTP HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262733.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "ADN 40",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362401.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZ CINEMA",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362402.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | CANAL ONCE FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321065.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZ MUNDO",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362405.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "Az click",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362403.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZTECA 7 FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362406.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZTECA UNO FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362408.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZTECA 7 SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362407.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZTECA UNO SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362409.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CANAL 28 Nueva Leon",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362412.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CANAL 10 Cancún",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362411.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "BITME",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362410.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "CANAL 5 SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362414.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "FORO TV FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362415.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "¢@NAL 5 FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362413.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "Az click",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362418.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "FORO TV SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362416.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "LAS ESTRELLAS FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362419.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MEXIQUENSE TV",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362421.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MILENIO",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362422.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "LAS ESTRELLAS SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362420.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "NU9VE TV SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362424.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "NU9VE TV FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362423.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "TELEFORMULA",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362425.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "AZ CORAZON",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362404.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX: Unicable",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/315007.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "IMAGEN TV FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362417.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | AZ CLIC!",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321044.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | AZ MUNDO HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321047.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | FORO TV FHD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321067.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | ADN 40",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321041.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | AZ CORAZÓN SD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321045.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | CANAL DE LAS ESTRELLAS HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321062.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || A+ HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404306.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | AZ CINEMA",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321046.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || A+ 7.2 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404305.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404308.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404307.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN40 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404309.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ITV Deportes HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404310.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELESISTEMA Canal 9 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404311.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AYM SPORTS HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404313.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Alcarria TV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404312.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Aym Sports FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404314.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Cinema HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404315.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Clic HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404316.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Corazón HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404317.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Corazón FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404318.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | AZ MUNDO HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404319.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Mundo FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404320.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca 7 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404321.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AZTECA CORAZÓN HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404323.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AZTECA CLIC HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404322.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca Uno FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404326.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AZTECA MUNDO HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404324.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca Uno HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404325.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Bandamax HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404327.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TVP Obregón - HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404329.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || BITME MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404328.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 10 Cancún HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404330.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA MEXICO HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404332.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 11 MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404331.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 4 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404334.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 4 Televisa Myt FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404335.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404333.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 5 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404337.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ¢A@NAL 5 HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404338.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 44 CHIHUAHUA HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404336.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 8 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404339.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 8 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404340.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL SIPSE TV (Merida) HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404341.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Super Canal MVS HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404342.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal DIEZ Cancún HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404343.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Judicial HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404344.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 28 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404345.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Once HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404346.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal U (Unicable) HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404347.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Multimedios Monterrey HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404349.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MyTime Movie Network MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404348.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Telemundo Internacional HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404350.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CURIOSITY HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404351.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Rakuten Viki Drama HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404352.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 14 Noticias HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404353.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ESTRELLATV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404356.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ESTRELLA NEWS HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404355.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CINE ESTRELLA HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404354.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || EWTN HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404357.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Judicial HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404358.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || FORO TV MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404359.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL SIPSE TVCUN HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404360.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || VISIÓN TV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404361.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || GOLDEN EDGE HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404362.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || GOLDEN MX SUB FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404364.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || GOLDEN EDGE MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404363.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Las Estrellas HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404367.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || a más + TV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404366.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || IMAGEN TV MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404365.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Las Estrellas FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404368.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Telemundo 51 Fl. HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404369.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MEXIQUENSE MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404370.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MilenioTV FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404372.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MEXIQUENSE FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404371.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Multimedios Laguna HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404373.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MULTIMEDIOS FHD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404375.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA CINE HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404376.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MULTIMEDIOS PLUS MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404374.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || California Medios HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404377.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 4 NRT HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404378.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEFORMULA MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404379.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEVISA MEXICALI HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404382.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEFORMULA HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404380.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TeleMax HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404381.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisa Monterrey HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404383.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || C4 en Alerta HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404384.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA TV Puebla HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404385.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || UMTV (Montemorelos) HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404386.ts",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || UMTV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404388.ts",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Nuevo León Canal 28 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404387.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || UNICABLE HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404391.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || UnoTV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404390.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEMUNDO NOTICIAS FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404389.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MIL SABORES HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404392.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 10 NOTICIAS (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404393.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca UNO Internacional (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404394.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisa Monterey (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404395.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 10 TV (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404396.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 28 (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404397.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX ||  TVP Culiacán - (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404399.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || El Sonorense TV (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404400.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Cana PSN (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404398.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Nueve San Luís Potosí (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404403.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisión UNISON Sonora (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404402.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Tlaxcala Television (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404401.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || RCG (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404404.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 6 Tecpán (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404405.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Las Estrellas - 2 horas HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404406.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisa Ciudad Puebla(FHD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404408.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Las Estrellas Opc. 2 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404407.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || SUN CHANNEL HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404409.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL TODO NOVELAS Mᴇxɪᴄᴏ ʜᴅ®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404411.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || NU9VE HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404410.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA CLASICO HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404412.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TVMÁS XALAPA SDT®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404413.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || RTQ (Querétaro) TV SDT®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404414.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Sony One Novelas MX (FHD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404415.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TLR TV FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404416.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA MACHO (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404417.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TVT (Tabasqueña) HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404420.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 6 PLUS (FHD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404421.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 6 CDMX (FHD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404418.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Mexico FRANCE 24 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404422.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL TV Cuatro 4.1 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404423.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL TV Cuatro 4.2 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404424.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal La Voz Grupera HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404426.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL Novelas VIKI Rakuten HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404425.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 8NTV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404427.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal ILCE  HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404428.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal TV Mar La Paz (FHD/HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404429.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Yuma Channel 72 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404430.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Novelas y Series FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404431.ts",
+      "calidad": "SD",
+      "categoria": "Series",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || RAKUTEN VIKI Channel FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404432.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 24 Heraldo CDM HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404433.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | DISTRTO COMEDY 0P 1",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/366260.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Capital21 CDMX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404434.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "Distrito comedy",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404304.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450293.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || BĘlN Sp0rts Xtra Ñ Mx HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404419.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Las Estrellas FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450294.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || GOLDEN EDGE HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450295.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || a más + TV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450296.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MEXIQUENSE MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450297.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || A+ 7.2 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450298.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AYM SPORTS HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450299.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Corazón Fast HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450300.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN40 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450302.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || A+ HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450301.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Aym Sports FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450303.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Corazón FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450304.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Mundo FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450305.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 4 Televisa Myt FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450306.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 8 FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450308.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 5 FHD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450307.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL Unisón FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450309.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 11 MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450310.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEFORMULA MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450311.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || FORO TV MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450312.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || GOLDEN MX SUB FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450313.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || GOLDEN EDGE MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450314.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MULTIMEDIOS FHD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450317.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MEXIQUENSE FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450316.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || IMAGEN TV MX FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450315.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca Uno FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450319.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA TV Puebla HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450318.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TLR TV FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450320.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Cinema HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450321.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Corazón HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450323.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Az Clic HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450322.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX | AZ MUNDO HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450324.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca 7 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450326.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca Uno HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450325.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TVP Obregón - HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450327.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 26 VA+ HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450328.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 4 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450329.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Judicial HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450332.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 5 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450330.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 8 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450331.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MULTIMEDIOS PLUS MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450334.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || C4 en Alerta HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450335.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Once HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450333.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450338.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal U (Unicable) HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450337.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisa Monterrey HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450336.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Bandamax HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450339.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ADN 40 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450341.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Las Estrellas HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450340.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Alcarria TV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450342.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 10 Cancún HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450344.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal DIEZ Cancún HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450343.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || EWTN HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450345.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Multimedios Monterrey HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450347.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 44 CHIHUAHUA HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450346.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MilenioTV FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450348.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Multimedios Laguna HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450349.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || California Medios HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450350.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TeleMax HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450352.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEFORMULA HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450351.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || UnoTV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450353.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA MEXICO HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450354.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELESISTEMA Canal 9 HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450355.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Telediario HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450356.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AZTECA CLIC HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450357.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AZTECA MUNDO HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450359.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || AZTECA CORAZÓN HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450358.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Telemundo Internacional HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450361.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Rakuten Viki Drama HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450362.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CURIOSITY HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450360.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL SIPSE TVCUN HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450363.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ULTRA CINE HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450365.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL 14 Noticias HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450366.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ITV Deportes HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450367.ts",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL TODO NOVELAS Mᴇxɪᴄᴏ ʜᴅ®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450368.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEVISA MEXICALI HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450369.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CANAL SIPSE TV (Merida) HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450370.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 4 NRT HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450372.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Sicom HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450371.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MAYA Visión HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450374.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || BITME MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450373.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || TELEMUNDO NOTICIAS FHD/HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450375.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MyTime Movie Network MX HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450376.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Judicial HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450377.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ESTRELLATV HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450378.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || CINE ESTRELLA HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450379.ts",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || ESTRELLA NEWS HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450380.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Telemundo 51 Fl. HD®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450381.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Tabasco TV HD*",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450382.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || MIL SABORES HD",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450383.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 10 NOTICIAS (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450384.ts",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisa Monterey (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450386.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal 10 TV (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450387.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Azteca UNO Internacional (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450385.ts",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX ||  TVP Culiacán - (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450390.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Canal Tele Yucatan (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450388.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Cana PSN (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450389.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Televisión UNISON Sonora (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450393.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || El Sonorense TV (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450391.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
+      "nombre": "MX || Tele Yucatan (HD)®",
+      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450392.ts",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 100
+    },
+    {
       "nombre": "EC | COTEL TV",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/372093.ts",
       "calidad": "HD",
@@ -3987,3021 +6178,830 @@
       "confianza": 100
     },
     {
-      "nombre": "CO | Señal Colombia HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69272.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | TeleAntioquia HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69276.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | TeleAntioquia",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69275.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Telecafé HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69278.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Telemedellin HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69284.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Telemedellin FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69283.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | TeleCaribe",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69279.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Telepacifico",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69285.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Telecafé",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69277.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | El Tiempo HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69261.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | City TV HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69260.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Canal Capital HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69244.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | Señal Colombia SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69273.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | CANAL 13  HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/209.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CO | La kalle",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/69287.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | CHILEVISION HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55272.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | CANAL 13 SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55270.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | CANAL 13 HD OP 02",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55271.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | MEGA HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55275.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | CHILEVISION SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55274.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | MEGA HD OP 2",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55277.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | TVN. HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55278.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | TVN  HD OP 2",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55279.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | MEGA SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55276.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL |  ETC TV",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55280.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | LA RED HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55281.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | TV CHILE",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/55282.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RED UNO LA PAZ HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262709.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CL | TELETRAK HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/151590.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RED UNO SANTA CRUZ HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262707.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : UNITEL LA PAZ HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262715.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : UNITEL SANTA CRUZ HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262713.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RED UNO COCHABANBA HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262711.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : ATB LA PAZ HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262721.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : UNITEL COCHABANBA HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262717.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : ATB COCHABANBA HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262723.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RED PAT SANTA CRUZ HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262725.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : ATB SATA CRUZ HD.",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262719.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RED PAT LA PAZ HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262728.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : BOLIVISION HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262729.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : BOLIVIA TV 7.2 HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262737.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : BOLIVIA TV 7.1 HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262736.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RED GIGAVISION HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262731.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "ABYA YALA",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/295550.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "Of tv",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/295551.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | MILENIO TV HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321073.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BOL : RTP HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/262733.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "ADN 40",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362401.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZ CINEMA",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362402.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | CANAL ONCE FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321065.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZ MUNDO",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362405.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "Az click",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362403.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZTECA 7 FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362406.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZTECA UNO FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362408.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZTECA 7 SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362407.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZTECA UNO SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362409.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CANAL 28 Nueva Leon",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362412.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CANAL 10 Cancún",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362411.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "BITME",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362410.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "CANAL 5 SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362414.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "FORO TV FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362415.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "¢@NAL 5 FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362413.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "Az click",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362418.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "FORO TV SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362416.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "LAS ESTRELLAS FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362419.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MEXIQUENSE TV",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362421.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MILENIO",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362422.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "LAS ESTRELLAS SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362420.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "NU9VE TV SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362424.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "NU9VE TV FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362423.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "TELEFORMULA",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362425.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "AZ CORAZON",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362404.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX: Unicable",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/315007.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "IMAGEN TV FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/362417.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | AZ CLIC!",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321044.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | AZ MUNDO HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321047.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | FORO TV FHD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321067.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | ADN 40",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321041.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | AZ CORAZÓN SD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321045.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | CANAL DE LAS ESTRELLAS HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321062.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || A+ HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404306.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | AZ CINEMA",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/321046.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || A+ 7.2 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404305.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN 40 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404308.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN 40 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404307.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN40 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404309.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ITV Deportes HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404310.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELESISTEMA Canal 9 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404311.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AYM SPORTS HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404313.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Alcarria TV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404312.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Aym Sports FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404314.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Cinema HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404315.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Clic HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404316.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Corazón HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404317.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Corazón FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404318.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | AZ MUNDO HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404319.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Mundo FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404320.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca 7 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404321.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AZTECA CORAZÓN HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404323.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AZTECA CLIC HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404322.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca Uno FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404326.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AZTECA MUNDO HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404324.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca Uno HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404325.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Bandamax HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404327.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TVP Obregón - HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404329.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || BITME MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404328.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 10 Cancún HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404330.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA MEXICO HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404332.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 11 MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404331.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 4 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404334.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 4 Televisa Myt FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404335.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN 40 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404333.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 5 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404337.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ¢A@NAL 5 HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404338.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 44 CHIHUAHUA HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404336.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 8 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404339.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 8 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404340.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL SIPSE TV (Merida) HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404341.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Super Canal MVS HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404342.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal DIEZ Cancún HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404343.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Judicial HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404344.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 28 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404345.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Once HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404346.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal U (Unicable) HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404347.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Multimedios Monterrey HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404349.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MyTime Movie Network MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404348.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Telemundo Internacional HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404350.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CURIOSITY HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404351.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Rakuten Viki Drama HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404352.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 14 Noticias HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404353.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ESTRELLATV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404356.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ESTRELLA NEWS HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404355.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CINE ESTRELLA HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404354.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || EWTN HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404357.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Judicial HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404358.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || FORO TV MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404359.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL SIPSE TVCUN HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404360.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || VISIÓN TV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404361.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || GOLDEN EDGE HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404362.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || GOLDEN MX SUB FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404364.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || GOLDEN EDGE MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404363.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Las Estrellas HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404367.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || a más + TV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404366.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || IMAGEN TV MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404365.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Las Estrellas FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404368.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Telemundo 51 Fl. HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404369.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MEXIQUENSE MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404370.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MilenioTV FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404372.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MEXIQUENSE FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404371.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Multimedios Laguna HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404373.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MULTIMEDIOS FHD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404375.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA CINE HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404376.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MULTIMEDIOS PLUS MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404374.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || California Medios HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404377.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 4 NRT HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404378.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEFORMULA MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404379.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEVISA MEXICALI HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404382.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEFORMULA HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404380.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TeleMax HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404381.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisa Monterrey HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404383.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || C4 en Alerta HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404384.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA TV Puebla HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404385.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || UMTV (Montemorelos) HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404386.ts",
-      "calidad": "SD",
-      "categoria": "Musica",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || UMTV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404388.ts",
-      "calidad": "SD",
-      "categoria": "Musica",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Nuevo León Canal 28 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404387.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || UNICABLE HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404391.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || UnoTV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404390.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEMUNDO NOTICIAS FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404389.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MIL SABORES HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404392.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 10 NOTICIAS (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404393.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca UNO Internacional (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404394.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisa Monterey (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404395.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 10 TV (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404396.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 28 (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404397.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX ||  TVP Culiacán - (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404399.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || El Sonorense TV (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404400.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Cana PSN (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404398.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Nueve San Luís Potosí (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404403.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisión UNISON Sonora (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404402.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Tlaxcala Television (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404401.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || RCG (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404404.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 6 Tecpán (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404405.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Las Estrellas - 2 horas HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404406.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisa Ciudad Puebla(FHD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404408.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Las Estrellas Opc. 2 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404407.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || SUN CHANNEL HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404409.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL TODO NOVELAS Mᴇxɪᴄᴏ ʜᴅ®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404411.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || NU9VE HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404410.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA CLASICO HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404412.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TVMÁS XALAPA SDT®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404413.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || RTQ (Querétaro) TV SDT®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404414.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Sony One Novelas MX (FHD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404415.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TLR TV FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404416.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA MACHO (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404417.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TVT (Tabasqueña) HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404420.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 6 PLUS (FHD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404421.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 6 CDMX (FHD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404418.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Mexico FRANCE 24 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404422.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL TV Cuatro 4.1 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404423.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL TV Cuatro 4.2 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404424.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal La Voz Grupera HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404426.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL Novelas VIKI Rakuten HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404425.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 8NTV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404427.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal ILCE  HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404428.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal TV Mar La Paz (FHD/HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404429.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Yuma Channel 72 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404430.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Novelas y Series FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404431.ts",
-      "calidad": "SD",
-      "categoria": "Series",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || RAKUTEN VIKI Channel FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404432.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 24 Heraldo CDM HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404433.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | DISTRTO COMEDY 0P 1",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/366260.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Capital21 CDMX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404434.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "Distrito comedy",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404304.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450293.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || BĘlN Sp0rts Xtra Ñ Mx HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/404419.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Las Estrellas FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450294.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || GOLDEN EDGE HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450295.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || a más + TV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450296.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MEXIQUENSE MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450297.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || A+ 7.2 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450298.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AYM SPORTS HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450299.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Corazón Fast HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450300.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN40 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450302.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || A+ HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450301.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Aym Sports FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450303.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Corazón FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450304.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Mundo FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450305.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 4 Televisa Myt FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450306.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 8 FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450308.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 5 FHD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450307.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL Unisón FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450309.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 11 MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450310.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEFORMULA MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450311.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || FORO TV MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450312.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || GOLDEN MX SUB FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450313.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || GOLDEN EDGE MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450314.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MULTIMEDIOS FHD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450317.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MEXIQUENSE FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450316.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || IMAGEN TV MX FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450315.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca Uno FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450319.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA TV Puebla HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450318.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TLR TV FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450320.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Cinema HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450321.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Corazón HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450323.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Az Clic HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450322.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX | AZ MUNDO HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450324.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca 7 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450326.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca Uno HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450325.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TVP Obregón - HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450327.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 26 VA+ HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450328.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 4 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450329.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Judicial HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450332.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 5 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450330.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 8 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450331.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MULTIMEDIOS PLUS MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450334.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || C4 en Alerta HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450335.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Once HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450333.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN 40 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450338.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal U (Unicable) HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450337.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisa Monterrey HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450336.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Bandamax HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450339.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ADN 40 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450341.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Las Estrellas HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450340.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Alcarria TV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450342.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 10 Cancún HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450344.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal DIEZ Cancún HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450343.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || EWTN HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450345.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Multimedios Monterrey HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450347.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 44 CHIHUAHUA HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450346.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MilenioTV FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450348.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Multimedios Laguna HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450349.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || California Medios HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450350.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TeleMax HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450352.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEFORMULA HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450351.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || UnoTV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450353.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA MEXICO HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450354.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELESISTEMA Canal 9 HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450355.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Telediario HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450356.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AZTECA CLIC HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450357.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AZTECA MUNDO HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450359.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || AZTECA CORAZÓN HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450358.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Telemundo Internacional HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450361.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Rakuten Viki Drama HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450362.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CURIOSITY HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450360.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL SIPSE TVCUN HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450363.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ULTRA CINE HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450365.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL 14 Noticias HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450366.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ITV Deportes HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450367.ts",
-      "calidad": "SD",
-      "categoria": "Deportes",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL TODO NOVELAS Mᴇxɪᴄᴏ ʜᴅ®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450368.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEVISA MEXICALI HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450369.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CANAL SIPSE TV (Merida) HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450370.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 4 NRT HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450372.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Sicom HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450371.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MAYA Visión HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450374.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || BITME MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450373.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || TELEMUNDO NOTICIAS FHD/HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450375.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MyTime Movie Network MX HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450376.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Judicial HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450377.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ESTRELLATV HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450378.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || CINE ESTRELLA HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450379.ts",
-      "calidad": "SD",
-      "categoria": "Peliculas",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || ESTRELLA NEWS HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450380.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Telemundo 51 Fl. HD®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450381.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Tabasco TV HD*",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450382.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || MIL SABORES HD",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450383.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 10 NOTICIAS (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450384.ts",
-      "calidad": "SD",
-      "categoria": "Noticias",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisa Monterey (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450386.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal 10 TV (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450387.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Azteca UNO Internacional (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450385.ts",
-      "calidad": "SD",
-      "categoria": "Internacional",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX ||  TVP Culiacán - (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450390.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Canal Tele Yucatan (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450388.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Cana PSN (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450389.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Televisión UNISON Sonora (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450393.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || El Sonorense TV (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450391.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
-      "nombre": "MX || Tele Yucatan (HD)®",
-      "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450392.ts",
-      "calidad": "SD",
-      "categoria": "General",
-      "confianza": 95
-    },
-    {
       "nombre": "MX || Nueve San Luís Potosí (HD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450394.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || RCG (HD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450395.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal 6 Tecpán (HD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450396.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Las Estrellas - 2 horas HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450397.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Las Estrellas Opc. 2 HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450398.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Televisa Ciudad Puebla(FHD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450399.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || TVT (Tabasqueña) HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450401.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || SUN CHANNEL HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450400.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || NU9VE HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450402.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || ULTRA CLASICO HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450403.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || TVMÁS XALAPA SDT®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450404.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Bein Sports Xtra Ñ Mx HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450406.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || RTQ (Querétaro) TV SDT®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450405.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal 6 CDMX (FHD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450407.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || ULTRA MACHO (HD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450409.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal 6 PLUS (FHD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450410.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal Sony One Novelas MX (FHD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450408.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || RAKUTEN VIKI Channel FHD/HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450411.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Mexico FRANCE 24 HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450412.ts",
       "calidad": "SD",
       "categoria": "Internacional",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || CANAL TV Cuatro 4.1 HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450413.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || CANAL TV Cuatro 4.2 FHD/HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450414.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || CANAL Novelas VIKI Rakuten HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450415.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal ILCE  HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450418.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal 8NTV HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450417.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal TV Mar La Paz (FHD/HD)®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450419.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || BEIN SPORTS EXTRA Ñ FHD/HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450420.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal TV Mar la Paz HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450416.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Novelas y Series FHD/HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450421.ts",
       "calidad": "SD",
       "categoria": "Series",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal Capital21 CDMX HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450423.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MX || Canal 24 Heraldo CDM HD®",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/450422.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | AMERICA TV HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81276.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | AMERIC∆  ꜱᴅ",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81275.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | EL NUEVE SD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81272.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | AMERICA FHD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81283.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | EL NUEVE HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81271.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | TELEFE HD ²",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/50510.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | EL NUEVE FHD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81270.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | TELEFE HD ¹",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81285.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | CRONICA HD ¹",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81268.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| ARGENTINISIMA HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81318.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | TELEFE FHD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/50521.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | C5N FHD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81273.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| ARGENTINISIMA SD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81319.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | Telemax sd",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81288.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | NOTICIAS TN SD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81325.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| EL GARAGE TV HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81322.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | C∆N∆L 13 HD ¹",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81300.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | CANAL 13 FHD*",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81266.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | TV PUBLICA HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81265.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | CANAL 13 HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81269.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR l VOLVER HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/140128.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR l VOLVER HD opc  ²",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/421649.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| LN+",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81323.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "ARG: Canal lNFANTIL",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/144337.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | Telemax HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81287.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | NOTICIAS TN HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81324.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR I| PAKAPAKA HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/352333.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | TV PUBLICA FHD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81264.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | A24  ʜᴅ",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81289.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | A24  ꜱᴅ",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81290.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| CINE AR HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81320.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| CINE AR SD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81321.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | C5N HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81274.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR-| CANAL 26 NOTICIAS SD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81317.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | CANAL 26 NOTICIAS HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/81310.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | CIUDAD MAGAZINE HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/86689.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "ARG: TV Universidad Nacional de La Plata",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/144336.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR |*F∆SHl0N TV",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/305969.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AR | NET TV HD",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/305968.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "HBO | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111737.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "HBO MUNDI | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111738.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "HBO2 | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111736.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "HBO POP | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111740.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "HBO SIGNATURE | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111741.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "HBO | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111739.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "STUDIO UNIVERSAL | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111764.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TÑT SÉRIES | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111773.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TNT | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111772.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "WARNER | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111780.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "UNIVERSAL CHANNEL | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111778.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AMC | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111688.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "AXN | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111690.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "CINEMAX | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111696.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "PARAMOUNT CHANNEL | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111754.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "SPACE | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111760.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "A&E | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111687.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "SONY | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111759.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TELECINE FUN | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111768.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "STAR CHANNEL | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111718.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TELECINE ACTION | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111766.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TELECINE CULT | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111767.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TELECINE PREMIUM | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111770.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TELECINE PIPOCA | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111769.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "TELECINE TOUCH | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111771.ts",
       "calidad": "SD",
       "categoria": "Peliculas",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "SPORTV | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111761.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "SPORTV2 | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111762.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "SPORTV3 | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111763.ts",
       "calidad": "SD",
       "categoria": "Deportes",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "BAND SP | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111692.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "COMBATE | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111698.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "E$PN2 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111712.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "ESPⓝ3 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111713.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "FISH TV | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111716.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "GLOBO NEWS | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111726.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "GLOBO RJ | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111729.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "RECORD SP | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111757.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "GLOBO | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111733.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "GLOBO SP | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111730.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "GLOBO TRIBUNA SANTOS | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111731.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "Religi",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/138493.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "BAND NEWS | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111788.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "Noticia",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/138492.ts",
       "calidad": "SD",
       "categoria": "Noticias",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "MAIS NA TELA | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111732.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "NATIONAL GEOGRAPHIC | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111751.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "NATGEO WILD | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111750.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "DISCOVERY CHANNEL | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111700.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "COMEDY CENTRAL | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111699.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "ANIMAL PLANET | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111689.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     },
     {
       "nombre": "DISCOVERY SCIENCE | 4k",
       "url": "http://goldtv.lat:80/live/Sebita2022/Manya2022/111703.ts",
       "calidad": "SD",
       "categoria": "General",
-      "confianza": 90
+      "confianza": 95
     }
   ]
 }
