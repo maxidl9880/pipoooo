@@ -1,7 +1,7 @@
 {
   "lista": "Lista JSON 1",
-  "actualizado": "2026-08-23T09:21:38.381335",
-  "total": 606,
+  "actualizado": "2026-08-23T17:10:30.032200",
+  "total": 1000,
   "canales": [
     {
       "nombre": "CL | CHILEVISION HD",
@@ -4239,10 +4239,2768 @@
       "confianza": 60
     },
     {
-      "nombre": "RADIO LOS 40",
-      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/166720",
-      "calidad": "HD",
+      "nombre": "PT : BLAZE TV HD HEVC",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390911",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : BLOOMBERG",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390910",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : BLAZE HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390912",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : AZORES TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390914",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : BLAZE",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390913",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : AXN MOVIES ᶠᴴᴰ",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390915",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : AXN MOVIES HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390917",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : AXN MOVIES LOW",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390916",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : AXN FHD 265",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390918",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT :  AXN MOVIES HD HEVC",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390921",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT :  SANTUARIO DE FATIMA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390920",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : ARTV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390919",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT :  AXN MOVIES FULHD HEVC",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390922",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : SPORT TV 5 LOW",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390924",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : SPORTV 1 HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390923",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : SPORT TV 5 720P",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390925",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : SPORT TV 4 ᶠᴴᴰ",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390926",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PT : SPORT TV 1 ᴴᴰ",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/390927",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Galáctika media",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/391357",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEP. URUGUAY | VTV HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/394835",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "D3PORTES | Ŕ3@L M@DRÏD TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/394445",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEP. URUGUAY | VTV OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/394836",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEP. URUGUAY | VTV HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/394837",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEP. URUGUAY | VTV PLUS OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/394838",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeenNick",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/395904",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nick Junior",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/395905",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISNEY CHANNEL",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/395907",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "Baby TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/395911",
+      "calidad": "SD",
+      "categoria": "Infantil",
+      "confianza": 60
+    },
+    {
+      "nombre": "DISNEY JUNIOR",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/395908",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "Disney XD East",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/395909",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "AR | Deport TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/397594",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | BIO-BIO TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/400325",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES | CLARO SPORTS",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/407036",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Oromar HD (Ecuador)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/410184",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LIGA PRO - ECU",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/409988",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Ecuavisa HD (Ecuador)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/410183",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Canal 7 (Guatemala)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/410186",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Canal Televida (Argentina)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/410187",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "Multivision Sport (Guatemala)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/410185",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | A&E SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414455",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | A&E HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414454",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | A&E FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414453",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | STAR CHANNEL  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414459",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | *C1NEMAX* SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414458",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | *C1NEMAX* HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414457",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | *HBÖ* 2 HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414462",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | *HBÖ* 2 SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414463",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | STAR CHANNEL  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414460",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | STAR CHANNEL  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414464",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | *HBO* F@MILY  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414465",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | *HBO* F@MILY  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414466",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | HBO  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414468",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO .POP  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414471",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | HBO  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414469",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | *HBO* POP SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414472",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TNT  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414474",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TNT  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414473",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | TNT SERIES  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414477",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TNT  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414475",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE  | TNT SERIES  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414476",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINECANAL  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414479",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINECANAL  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414480",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE |  TNT SERIES  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414478",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINECANAL  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414481",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AXN  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414483",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AXN  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414484",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | WARNER  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414485",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | WARNER  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414486",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SONY  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414488",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SONY  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414489",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SONY  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414490",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | TCM  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414491",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE |  TCM  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414493",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | TCM  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414492",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | UNIVERSAL CHANEL  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414494",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | FX  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414497",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | UNIVERSAL CHANEL  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414496",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | UNIVERSAL CHANEL HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414495",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | FX  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414499",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | FX  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414498",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SPACE CHANEL  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414500",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SPACE CHANEL  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414502",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AMC  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414503",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | SPACE CHANEL  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414501",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AMC  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414505",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | AMC HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414504",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414506",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414508",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN EDG  FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414509",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414507",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN EDG  HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414510",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | PARAMOUNT CHANEL FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414512",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN EDG  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414511",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE GOLDEN PLUS FHD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414515",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | PARAMOUNT CHANEL SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414514",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | PARAMOUNT CHANEL HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414513",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN PLUS HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414516",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | GOLDEN PLUS SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414517",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE | CINE LATINO",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414518",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Comedy",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414519",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Premier Este",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414521",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Crime Este",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414520",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Cinema",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414523",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Crime Oeste",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414524",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Reality",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414522",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "P | Universal Premier Oeste",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/414525",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Portal 90",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/417325",
+      "calidad": "SD",
       "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | NOTICIAS CHILE",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/273683",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA |  MAS 23",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418183",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA| TELEMETRO",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418184",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA |  RPC TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418182",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA | CANAL 2 TVN",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418186",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA |  TV Max",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418185",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA |  A&R CANAL",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418187",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA | TIGO SPORTS",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418189",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES | $.Š.P.N 5",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418591",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA | CABLE ONDA SPORTS FC",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418188",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "El Radar",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/420470",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES | *ESP*N 7",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418593",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES | *ESP*N 6",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/418592",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421680",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421681",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 3",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421682",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 6",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421685",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 4",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421683",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 5",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421684",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 3",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421689",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 10",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421688",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 4",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421690",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | ZONA LATINA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/273734",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 5",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421691",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MLS 6",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/421692",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | VIA X HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/298545",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TBS | TNT NOVELAS HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/422647",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 01 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423121",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 02 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423122",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 03 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423123",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 04 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423124",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 05 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423125",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 06 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423126",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MX: [LMP]- Solo en evento fijos 07 ❖2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423127",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RD = CANAL 19 Canal19",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423194",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RD = CANAL 164 Luz Divina TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423193",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RD = CANAL 33 MICROVISION",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423200",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| AMERICA TV HD OP1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/428948",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RD = CANAL 21 Antena21",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/423205",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CL | CANAL 13 C",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/424474",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| AMERICA TV HD OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429002",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV HD OP1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429004",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV HD OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429005",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429006",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV SUR",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429008",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| ATV HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429007",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Latina HD OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429010",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Latina HD OP1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429009",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Latina SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429011",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | C4N4L N",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429012",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| TV PERU",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429013",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| TV PERU NOTICIAS",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429014",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Exitosa TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429017",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| PBO TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429016",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| TV PERU INTERNACIONAL",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429015",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| PANAMERICANA HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429019",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| CULTURA TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429018",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Panamericana SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429020",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| WILLAX  SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429023",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| WILLAX HD OP1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429021",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| WILLAX HD OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429022",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| CANAL IPE",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429024",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| LA TELE",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429026",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| GLOBAL TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429025",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NATIVA HD (PE)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429031",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| MASTER TELEVISION AMAZONIA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429029",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| TV EN LINEA CUZC0",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429028",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| MEGA CINE",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429033",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| MEGA TV JAEN",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429032",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| BHTV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429034",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Antares TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429035",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| SOL TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429036",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Autentica TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429038",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| CRTV Moyobamba",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429039",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Catacaos TV Piura",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429042",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| IMPACTO TV CAJAMARCA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429041",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Via Altomayo TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429046",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| VIVA TV Yurimaguas",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429044",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| CABLE TV PERU",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429043",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Cvn TV Tumbes",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429047",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Aguaytia TV Huanuco",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429048",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Cable Vision TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429050",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Ovasion TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429052",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Via Television Tarapoto",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429051",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE| Telecolor Amazonia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/429053",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430575",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PREMIER CHI | OP 2 SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430576",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Renacer",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430194",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "FUT BASIC HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430647",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FUT BASIC | HD OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430648",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PREMIER CHI | OP 3 HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430577",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430649",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FUT PREMIER CHI | HD OP 2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430650",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FUT PREMIER SD (CHI)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430651",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | IMPERIAL TV HUANCAVELICA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430832",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "FUT BASIC HD (CHI)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430830",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | CADENA TV HUANCAYO",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430833",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Frecuencia cultural",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/430948",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | W $ports + HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/437740",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | KARIBEÑA TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/431349",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | W $ports SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/437743",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | W $ports + OP2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/437741",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CO | W $ports + HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/437742",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Bellavista sports",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/438100",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "7 RadioVisione",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439803",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "7 STORIA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439804",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "7 YOU & ME",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439805",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "51 Radio TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439807",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "12 TV Parma",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439806",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Adnkronos",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439810",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "A2i TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439809",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "70-80 TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439808",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "AltoAdige TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439811",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Aurora Arte",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439813",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Antenna 2 TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439812",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CafeTV24",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439815",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Azzurra TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439814",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Calabria TV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439816",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Canale 2 Altamura",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439818",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Canale 7",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439819",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Camera dei Deputati",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439817",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Canale 8",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439820",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Canale 21 Extra",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439821",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CarinaTV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439822",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CG Entertainment",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439824",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Casa Italia 53",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439823",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Company TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439825",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DI.TV 80",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439828",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Cusano Italia TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439826",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Deejay TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439827",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Elive TV Brescia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439829",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Entella TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439830",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Esperia TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439831",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "eTv Rete 7",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439834",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Etna Espresso Channel",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439832",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "eTv Marche",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439833",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Euro Indie Music Chart TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439835",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "FM ITALIA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439837",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Euro TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439836",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Giornale Radio TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439838",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Gold TV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439840",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Giovanni Paolo TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439839",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Icaro TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439843",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Gold TV Sat SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439841",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Horse TV HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439842",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Inter TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439844",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Italia 7",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439846",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Italia2TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439845",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Italian Fishing TV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439848",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Juwelo",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439849",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Italia Channel",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439847",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Kiss Kiss TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439851",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "LaC News 24",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439852",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "Kiss Kiss Napoli TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439850",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La TR3 Marsala",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439854",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "La C TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439853",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Lira TV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439855",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Luna TV SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439856",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "m2o TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439857",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "MadeinBO TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439858",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Mediaset Italia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439860",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Medjugorje Italia TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439861",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Maria Vision Italia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439859",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nautical Channel",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439863",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Minformo TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439862",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Nuova TV 1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439864",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Onda Novara TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439865",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Orler TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439867",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Onda TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439866",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Otto Channel",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439868",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Peer TV Alto Adige",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439870",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Paci Contemporary Channel",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439869",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Peer TV Sudtirol",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439872",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Prima Free",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439873",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PrimAntenna TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439874",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Promovideo TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439877",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Primocanale",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439876",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Prima TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439875",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "QVC",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439879",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio 51 TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439880",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Quarto Canale Flegreo",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439878",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radiofreccia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439882",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Ibiza TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439883",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Birikina TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439881",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Iglesias",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439884",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Number One",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439886",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Iglesias Sardegna",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439885",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Taormina Sicilia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439889",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Piter Pan TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439887",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Studio Delta TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439888",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rai 4",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439892",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Radio Zeta",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439890",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rai 1 HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439891",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rai 4K",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439893",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rai Scuola",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439896",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rai 5",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439894",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rai World Premium",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439897",
+      "calidad": "SD",
+      "categoria": "Internacional",
+      "confianza": 60
+    },
+    {
+      "nombre": "ReggioTV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439899",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rete 8 SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439900",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rete TV Italia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439903",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rete Biella TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439901",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Rete Oro",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439902",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTL 102.5 Best",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439906",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTC Quarta Rete",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439905",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Reteveneta",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439904",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTL 102.5 Napule",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439908",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTL 102.5 Bro&Sis",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439907",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTL 102.5 TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439909",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTM TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439910",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTP",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439911",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTTR Trento",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439912",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "RTV38",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439913",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Senato TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439914",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Sophia TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439915",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Stereo 5 TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439916",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Super!",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439918",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "ST Europe Channel",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439917",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Super Six",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439919",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Teatro TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439921",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Super TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439920",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleArena",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439923",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Tele Abruzzo",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439922",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Tele Chiara",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439924",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telecolor Lombardia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439925",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telefoggia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439926",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telefriuli",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439927",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleMajg",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439930",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telegela 647 SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439928",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Tele Liguria Sud",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439929",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleMia Extra",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439933",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telemantova",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439931",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleMia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439932",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telemolise",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439935",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TELENORD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439936",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleMistretta",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439934",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telenova",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439937",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telepace 1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439939",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Tele One 16 SD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439938",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telepace 3",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439941",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telepace 4",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439942",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telepace 2",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439940",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telepace Trento",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439943",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telepavia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439944",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Tele Quattro",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439945",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleSanDomenico",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439948",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Teleromagna",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439947",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleRama",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439946",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telesirio Web TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439949",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Telestense",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439950",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Teletricolore",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439951",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TG Norba 24",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439953",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TLT Molise",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439954",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TeleTusciaSabina 2000",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439952",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TV7 Benevento",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439957",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Trentino TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439955",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TR Sport",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439956",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TV2000",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439959",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "tv9 Telemaremma",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439958",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TV Campane 1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439961",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TV Qui Modena",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439963",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TV Prato",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439962",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TV Yes Italia",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439964",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "Visual Radio",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439967",
+      "calidad": "SD",
+      "categoria": "Musica",
+      "confianza": 60
+    },
+    {
+      "nombre": "Umbria TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439965",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "UniNettuno University TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/439966",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA | NFL Red Zone",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/445614",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "Sandra Tv",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/443536",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "DEPORTES | Ty€ 5PORT5",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/443250",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA | NFL Network",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/445615",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA| NFL REDZONE HD**",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/445618",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "NFL Network HD+",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/445617",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "NBA TV HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/447469",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "PANAMA | SERTV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/447447",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "NFL NETWORK (US)",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/445619",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "3UR0$P0RT$ 2 HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/447769",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "CINE PARAMOUNT+",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/449493",
+      "calidad": "SD",
+      "categoria": "Peliculas",
+      "confianza": 60
+    },
+    {
+      "nombre": "3UR0$P0RT$ 1 HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/447768",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | TELECENTRO TV HUANCAVELICA",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/449738",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "PE | BETHEL TV",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/449737",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TIGO SPORTS",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/450153",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TIGO SPORTS LIGA PY",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/450154",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TIGO SPORTS 3",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/450155",
+      "calidad": "SD",
+      "categoria": "Deportes",
+      "confianza": 60
+    },
+    {
+      "nombre": "TERROR 1",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/356192",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA| A&E LIVELI PLACE HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/452633",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "TERROR 5",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/356189",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA| MSNBC HD",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/452632",
+      "calidad": "SD",
+      "categoria": "Noticias",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA| ANIMAL PLANET EAST HD**",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/452634",
+      "calidad": "SD",
+      "categoria": "General",
+      "confianza": 60
+    },
+    {
+      "nombre": "USA| ANIMAL PLANET PACIFIC HD**",
+      "url": "http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/452635",
+      "calidad": "SD",
+      "categoria": "General",
       "confianza": 60
     }
   ]
