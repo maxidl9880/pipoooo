@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
+#EXTINF:-1 tvg-name="AR | AMERICA FHD" group-title="Noticias",AR | AMERICA FHD
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81283
+#EXTINF:-1 tvg-name="AR | AMERICA TV HD" group-title="Noticias",AR | AMERICA TV HD
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81276
+#EXTINF:-1 tvg-name="ARG | America" group-title="Noticias",ARG | America
+http://starlatino.tv:8880/live/cristian43/7483837464/490463.m3u8
+#EXTINF:-1 tvg-name="America TV" group-title="Noticias",America TV
+http://starlatino.tv:8880/live/cristian43/7483837464/490450.m3u8
+#EXTINF:-1 tvg-name="America TV 4K" group-title="Noticias",America TV 4K
+http://goldtv.lat:80/live/Sebita2022/Manya2022/400075
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
