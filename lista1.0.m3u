@@ -1,21 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
-#EXTINF:-1 tvg-name="AR | AMERICA FHD" group-title="Noticias",AR | AMERICA FHD
-http://goldtv.lat:80/live/Sebita2022/Manya2022/81283
-#EXTINF:-1 tvg-name="AR | AMERICA TV HD" group-title="Noticias",AR | AMERICA TV HD
-http://goldtv.lat:80/live/Sebita2022/Manya2022/81276
-#EXTINF:-1 tvg-name="ARG | America" group-title="Noticias",ARG | America
-http://starlatino.tv:8880/live/cristian43/7483837464/490463.m3u8
-#EXTINF:-1 tvg-name="America TV" group-title="Noticias",America TV
-http://starlatino.tv:8880/live/cristian43/7483837464/490450.m3u8
-#EXTINF:-1 tvg-name="America TV 4K" group-title="Noticias",America TV 4K
-http://goldtv.lat:80/live/Sebita2022/Manya2022/400075
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
+#EXTINF:-1 tvg-name="CINE  | TNT SERIES  FHD" group-title="Peliculas",CINE  | TNT SERIES  FHD
+http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/414476
+#EXTINF:-1 tvg-name="CINE |  TNT SERIES  SD" group-title="Peliculas",CINE |  TNT SERIES  SD
+http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/414478
+#EXTINF:-1 tvg-name="CINE | TNT SERIES  HD" group-title="Peliculas",CINE | TNT SERIES  HD
+http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/414477
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://velive.lat:8080/UXVvZ1ZmUGdmK0dzUVZZQnJsU0FNTyttQitZa1R4T0U3WXVmSXBkM2Jjdz0
 #EXTINF:-1 tvg-name="TELEFE" group-title="Noticias",TELEFE
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU3EvMzJyTGd5NXZmbTEwb2FmSkZXST0
+#EXTINF:-1 tvg-name="TN" group-title="Noticias",TN
+http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490437
+#EXTINF:-1 tvg-name="TN HD" group-title="Noticias",TN HD
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81324
+#EXTINF:-1 tvg-name="TNT SERIES" group-title="Series",TNT SERIES
+http://fivetv.org:25461/kelv48627/pretv8539/186476
+#EXTINF:-1 tvg-name="TNT SERIES (2mb)" group-title="Series",TNT SERIES (2mb)
+http://fivetv.org:25461/kelv48627/pretv8539/361412
+#EXTINF:-1 tvg-name="TNT SPORTS" group-title="Deportes",TNT SPORTS
+http://velive.lat:8080/T1MwM2VBTEM4TlBpVzNVaHlMUFJ1dERHaU00dEFxUTZ6aXZwTVJ3SWpJVT0
+#EXTINF:-1 tvg-name="TNT SPORTS HD" group-title="Deportes",TNT SPORTS HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVnd2WnZ2Y0FuOFBxeDBsN3FXWnhwdz0
+#EXTINF:-1 tvg-name="TNT Series 4K" group-title="Series",TNT Series 4K
+http://goldtv.lat:80/live/Sebita2022/Manya2022/400180
 #EXTINF:-1 tvg-name="TYC SPORTS" group-title="Deportes",TYC SPORTS
 http://starlatino.tv:8880/live/cristian43/7483837464/327918.m3u8
