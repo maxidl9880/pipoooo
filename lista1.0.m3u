@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="AR | C5N FHD" group-title="Noticias",AR | C5N FHD
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81273
 #EXTINF:-1 tvg-name="ARG | TELEFE" group-title="Noticias",ARG | TELEFE
 http://starlatino.tv:8880/live/cristian43/7483837464/490458.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
