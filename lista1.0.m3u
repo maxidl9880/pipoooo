@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="Noticias",ARG | TELEFE
+http://starlatino.tv:8880/live/cristian43/7483837464/490458.m3u8
+#EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
+http://velive.lat:8080/amRPUVdPa2hveGd3SDg3b05rN29yZUMwaFZOREFxQWpQa0F1VEVkMGo1OD0
+#EXTINF:-1 tvg-name="TYC SPORTS" group-title="Deportes",TYC SPORTS
+http://starlatino.tv:8880/live/cristian43/7483837464/327918.m3u8
