@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
+http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/97675
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVS9QOUdYbWY4UXkrYTIrejJkZDVaOD0
+http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
-http://velive.lat:8080/UXVvZ1ZmUGdmK0dzUVZZQnJsU0FNTyttQitZa1R4T0U3WXVmSXBkM2Jjdz0
+http://velive.lat:8080/amRPUVdPa2hveGd3SDg3b05rN29yZUMwaFZOREFxQWpQa0F1VEVkMGo1OD0
 #EXTINF:-1 tvg-name="HBO" group-title="Peliculas",HBO
-http://deluxe-tv.vip:80/live/clau342oli/usa583eu/1313664
+http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471532
 #EXTINF:-1 tvg-name="HBO 2" group-title="Peliculas",HBO 2
 http://deluxe-tv.vip:80/live/clau342oli/usa583eu/1313665
-#EXTINF:-1 tvg-name="HBO 2 MX HD" group-title="Peliculas",HBO 2 MX HD
-http://deluxe-tv.vip:80/live/clau342oli/usa583eu/790473
 #EXTINF:-1 tvg-name="HBO Plus HD" group-title="Peliculas",HBO Plus HD
 http://deluxe-tv.vip:80/live/clau342oli/usa583eu/790475
 #EXTINF:-1 tvg-name="TELEFE" group-title="Noticias",TELEFE
@@ -19,7 +17,5 @@ http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU3EvMzJyTGd5NXZmbTEwb2FmSkZXS
 http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/490437
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="Series",TNT SERIES
 http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/414477
-#EXTINF:-1 tvg-name="TNT SPORTS" group-title="Deportes",TNT SPORTS
-http://velive.lat:8080/T1MwM2VBTEM4TlBpVzNVaHlMUFJ1dERHaU00dEFxUTZ6aXZwTVJ3SWpJVT0
 #EXTINF:-1 tvg-name="TYC SPORTS" group-title="Deportes",TYC SPORTS
 http://starlatino.tv:8880/live/cristian43/7483837464/327918.m3u8
