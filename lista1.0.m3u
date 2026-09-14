@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
+#EXTINF:-1 tvg-name="ARG| TELEFE SD" group-title="General",ARG| TELEFE SD
+http://brinez.site:8080/d1IzdVZTL3pGcnBqT2VzQzJlOS9ZUkV0MkFJTW52UjF3VG1LWFUrMjdwWT0
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://mundo2.vip/live/EdmundoVazquez/Amelia2024/81274
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
