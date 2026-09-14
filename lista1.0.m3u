@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
-#EXTINF:-1 tvg-name="AR | TELEFE FHD" group-title="General",AR | TELEFE FHD
-http://mundo2.vip/live/EdmundoVazquez/Amelia2024/50521
-#EXTINF:-1 tvg-name="AR | TELEFE HD ²" group-title="Noticias",AR | TELEFE HD ²
-http://mundo2.vip/live/EdmundoVazquez/Amelia2024/50510
-#EXTINF:-1 tvg-name="AR | TELEFE HD ¹" group-title="General",AR | TELEFE HD ¹
-http://goldtv.lat:80/live/Sebita2022/Manya2022/81285
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://mundo2.vip/live/EdmundoVazquez/Amelia2024/81274
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
