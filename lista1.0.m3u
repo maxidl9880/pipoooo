@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
+#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
+http://mundo2.vip/live/EdmundoVazquez/Amelia2024/81274
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://velive.lat:8080/UXVvZ1ZmUGdmK0dzUVZZQnJsU0FNTyttQitZa1R4T0U3WXVmSXBkM2Jjdz0
-#EXTINF:-1 tvg-name="GRAN HERMANO CAM 2 [0ndeman]" group-title="General",GRAN HERMANO CAM 2 [0ndeman]
-http://mundo2.vip/live/EdmundoVazquez/Amelia2024/454928
 #EXTINF:-1 tvg-name="HBO  SD" group-title="Peliculas",HBO  SD
 http://starlatino.tv:8880/live/cristian43/7483837464/414469.m3u8
+#EXTINF:-1 tvg-name="TELEFE" group-title="Noticias",TELEFE
+http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/97679
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="Series",TNT SERIES
 http://starlatino.tv:8880/live/cristian43/7483837464/414477.m3u8
 #EXTINF:-1 tvg-name="Tnt sports" group-title="Deportes",Tnt sports
