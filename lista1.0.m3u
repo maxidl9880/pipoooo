@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA" group-title="Noticias",AMERICA
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
-#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
+#EXTINF:-1 tvg-name="ARG | C5N OP1" group-title="General",ARG | C5N OP1
+http://superflash.ovh:80/live/112233/112233/1241567
+#EXTINF:-1 tvg-name="ARG | C5N OP2" group-title="General",ARG | C5N OP2
+http://superflash.ovh:80/live/112233/112233/1241568
+#EXTINF:-1 tvg-name="C5N" group-title="General",C5N
 http://mundo2.vip/live/EdmundoVazquez/Amelia2024/81274
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://velive.lat:8080/UXVvZ1ZmUGdmK0dzUVZZQnJsU0FNTyttQitZa1R4T0U3WXVmSXBkM2Jjdz0
