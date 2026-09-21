@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ARG | C5N OP1" group-title="General",ARG | C5N OP1
-http://deluxe-tv.vip:80/live/clau342oli/usa583eu/1241567
-#EXTINF:-1 tvg-name="C5N" group-title="General",C5N
-http://mundo2.vip/live/EdmundoVazquez/Amelia2024/81274
+#EXTINF:-1 tvg-name="AR | C5N HD" group-title="Noticias",AR | C5N HD
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81274
+#EXTINF:-1 tvg-name="ARG| C5N HD" group-title="General",ARG| C5N HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVS9QOUdYbWY4UXkrYTIrejJkZDVaOD0
+#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
+http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490448
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471520
 #EXTINF:-1 tvg-name="HBO  SD" group-title="Peliculas",HBO  SD
