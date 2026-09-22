@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="America" group-title="Noticias",America
+http://starlatino.tv:8880/live/cristian43/7483837464/490463.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
