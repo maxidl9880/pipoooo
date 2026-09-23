@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ARG | AMERICA TV OP1" group-title="General",ARG | AMERICA TV OP1
 http://superflash.ovh:80/live/112233/112233/1241571.ts
-#EXTINF:-1 tvg-name="ARG | AMERICA TV OP2" group-title="General",ARG | AMERICA TV OP2
-http://superflash.ovh:80/live/112233/112233/1241572.ts
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471520.ts
 #EXTINF:-1 tvg-name="HBO  SD" group-title="Peliculas",HBO  SD
