@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-name="C5N 3" group-title="Noticias",C5N 3
+http://fivetv.org:25461/PedroDJS433/PedroalaJP/90964
+#EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
 http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471520.ts
-#EXTINF:-1 tvg-name="HBO  SD" group-title="Peliculas",HBO  SD
+#EXTINF:-1 tvg-name="HBO  SD 1" group-title="Peliculas",HBO  SD 1
 http://starlatino.tv:8880/live/cristian43/7483837464/414469.m3u8
-#EXTINF:-1 tvg-name="TELEFE" group-title="Noticias",TELEFE
-http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/97679.ts
-#EXTINF:-1 tvg-name="TNT SERIES" group-title="Series",TNT SERIES
+#EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
 http://starlatino.tv:8880/live/cristian43/7483837464/414477.m3u8
