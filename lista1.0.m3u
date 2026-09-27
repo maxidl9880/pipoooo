@@ -1,9 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="AMERICA TV  4" group-title="Noticias",AMERICA TV  4
+https://lamamadetarzanenpelota.site:2087/play/F_LldeJlhDNwZwgYE2HqB6lhpCLoA7vzwiCoqYgwbR4/ts
+#EXTINF:-1 tvg-name="AMERICA TV  5" group-title="Noticias",AMERICA TV  5
+https://lamamadetarzanenpelota.site:2087/play/F_LldeJlhDNwZwgYE2HqB1QZ-6SSlqk7AteiNzXVOzY/ts
+#EXTINF:-1 tvg-name="AMERICA TV  8" group-title="Noticias",AMERICA TV  8
+http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/9477.ts
+#EXTINF:-1 tvg-name="AMERICA TV 1" group-title="Noticias",AMERICA TV 1
+http://mundo2.vip/live/EdmundoVazquez/Amelia2024/317492.ts
+#EXTINF:-1 tvg-name="AMERICA TV 2" group-title="Noticias",AMERICA TV 2
+https://lamamadetarzanenpelota.site:2087/play/F_LldeJlhDNwZwgYE2HqB0lPAIyxWmQZ6sqRsBTv-PM/ts
+#EXTINF:-1 tvg-name="AMERICA TV 3" group-title="Noticias",AMERICA TV 3
+http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
+#EXTINF:-1 tvg-name="AMERICA TV 9" group-title="Noticias",AMERICA TV 9
+http://starlatino.tv:8880/live/cristian43/7483837464/490463.m3u8
+#EXTINF:-1 tvg-name="ARG | C5N (Argentina) (lt)" group-title="Internacional",ARG | C5N (Argentina) (lt)
+https://lamamadetarzanenpelota.site:2087/play/F_LldeJlhDNwZwgYE2HqB5Y9WHunDImLbPGg3NzPHmQ/ts
 #EXTINF:-1 tvg-name="C5N 3" group-title="Noticias",C5N 3
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/90964
+#EXTINF:-1 tvg-name="C5N 5" group-title="Noticias",C5N 5
+https://lamamadetarzanenpelota.site:2087/play/F_LldeJlhDNwZwgYE2HqB3C0sJeB8Xw6jX_5as4z9_M/ts
 #EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
 http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471520.ts
 #EXTINF:-1 tvg-name="HBO  SD 1" group-title="Peliculas",HBO  SD 1
 http://starlatino.tv:8880/live/cristian43/7483837464/414469.m3u8
+#EXTINF:-1 tvg-name="TELEFE 1" group-title="Noticias",TELEFE 1
+http://starlatino.tv:8880/live/cristian43/7483837464/490458.m3u8
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
 http://starlatino.tv:8880/live/cristian43/7483837464/414477.m3u8
