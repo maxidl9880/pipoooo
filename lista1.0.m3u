@@ -25,6 +25,8 @@ http://starlatino.tv:8880/live/cristian43/7483837464/414469.m3u8
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/361405
 #EXTINF:-1 tvg-name="HBO 2 HD" group-title="Peliculas",HBO 2 HD
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46150.ts
+#EXTINF:-1 tvg-name="HBO FAMILY | 1080p" group-title="Peliculas",HBO FAMILY | 1080p
+http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/195507.ts
 #EXTINF:-1 tvg-name="HBO PLUS | MX" group-title="Peliculas",HBO PLUS | MX
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46157.ts
 #EXTINF:-1 tvg-name="HBO Plus HD" group-title="Peliculas",HBO Plus HD
