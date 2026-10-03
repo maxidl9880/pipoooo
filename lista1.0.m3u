@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA TV 3" group-title="Noticias",AMERICA TV 3
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
+#EXTINF:-1 tvg-name="AR | TELEFE FHD" group-title="General",AR | TELEFE FHD
+http://mundo2.vip/live/EdmundoVazquez/Amelia2024/50521.ts
 #EXTINF:-1 tvg-name="C5N 3" group-title="Noticias",C5N 3
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/90964
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas",CINE | HBO FAMILY  HD
@@ -23,6 +25,8 @@ http://multicanalpro.com/live/Centeno70384/Cochitv36145/46159.ts
 http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/490439
 #EXTINF:-1 tvg-name="TELEFE 2" group-title="Noticias",TELEFE 2
 http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/490451
+#EXTINF:-1 tvg-name="TELEFE 3 HD" group-title="Noticias",TELEFE 3 HD
+http://goldtv.lat:8080/live/AipiTv3/Milromero2025/50510.ts
 #EXTINF:-1 tvg-name="TELEFE 4" group-title="Noticias",TELEFE 4
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712715.ts
 #EXTINF:-1 tvg-name="TELEFE 7" group-title="Noticias",TELEFE 7
