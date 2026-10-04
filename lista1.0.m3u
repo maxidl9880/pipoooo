@@ -27,6 +27,8 @@ http://multicanalpro.com/live/Centeno70384/Cochitv36145/46159.ts
 http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/490439
 #EXTINF:-1 tvg-name="TELEFE 2" group-title="Noticias",TELEFE 2
 http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/490451
+#EXTINF:-1 tvg-name="TELEFE 2 no" group-title="General",TELEFE 2 no
+http://superflash.ovh:80/live/112233/112233/1241561.ts
 #EXTINF:-1 tvg-name="TELEFE 3 HD" group-title="Noticias",TELEFE 3 HD
 http://goldtv.lat:8080/live/AipiTv3/Milromero2025/50510.ts
 #EXTINF:-1 tvg-name="TELEFE 4" group-title="Noticias",TELEFE 4
