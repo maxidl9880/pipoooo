@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA TV 3" group-title="Noticias",AMERICA TV 3
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
+#EXTINF:-1 tvg-name="ARG | C5N SD" group-title="General",ARG | C5N SD
+http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/490448
+#EXTINF:-1 tvg-name="C5N 7 no" group-title="Noticias",C5N 7 no
+http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
 #EXTINF:-1 tvg-name="C5N FHD| AR" group-title="General",C5N FHD| AR
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712705.ts
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas",CINE | HBO FAMILY  HD
@@ -13,8 +17,10 @@ http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471520.ts
 http://starlatino.tv:8880/live/cristian43/7483837464/414468.m3u8
 #EXTINF:-1 tvg-name="HBO  SD 1" group-title="Peliculas",HBO  SD 1
 http://rdctv.pro:8080/MzJIVi9QaHAwYUE3aTloeHIwc2t4MEdvajRHM3R6bjdWdFl1bDV0ZzBGM2l2dnd2TjJXUHcrMU9XUXRXbVVSeA
+#EXTINF:-1 tvg-name="HBO (2mb)" group-title="Peliculas",HBO (2mb)
+http://fivetv.org:25461/PedroDJS433/PedroalaJP/361405
 #EXTINF:-1 tvg-name="HBO 1 no" group-title="Peliculas",HBO 1 no
-http://tvfull365.com/live/EdsonRuiz/2paPsUpdVnWa/46145.ts
+http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/471532.ts
 #EXTINF:-1 tvg-name="HBO 2 HD" group-title="Peliculas",HBO 2 HD
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46150.ts
 #EXTINF:-1 tvg-name="TELEFE 1" group-title="Noticias",TELEFE 1
