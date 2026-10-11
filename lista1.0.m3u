@@ -5,10 +5,12 @@ http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
 http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/490448
 #EXTINF:-1 tvg-name="C5N 7 no" group-title="Noticias",C5N 7 no
 http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
-#EXTINF:-1 tvg-name="C5N FHD| AR" group-title="General",C5N FHD| AR
-http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712705.ts
+#EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NXBxVXhyZlNZTlZkV1Q4VDR3ellHcz0
 #EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas",CINE  | HBO .POP  HD
 http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414471
+#EXTINF:-1 tvg-name="CINE | HBO 2 HD" group-title="Peliculas",CINE | HBO 2 HD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MTlsSm5zdHJNTWk4ZmZRbjFpb3BHYz0
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas",CINE | HBO FAMILY  HD
 http://rdctv.pro:8080/MzJIVi9QaHAwYUE3aTloeHIwc2t4MEdvajRHM3R6bjdWdFl1bDV0ZzBGMGdBQWtLWVRXTlJuVUhsc0grQkJEZg
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  SD" group-title="Peliculas",CINE | HBO FAMILY  SD
@@ -30,4 +32,4 @@ http://starlatino.tv:8880/live/cristian43/7483837464/490458.m3u8
 #EXTINF:-1 tvg-name="TELEFE no" group-title="General",TELEFE no
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NkprYVN1bi95cjJLM2hKUGZmcC9iST0
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
-http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MGFvV1U1dm9rQ1QrUGpHM1VJd2h3RT0
+http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414477
