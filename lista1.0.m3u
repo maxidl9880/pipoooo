@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA TV 3" group-title="Noticias",AMERICA TV 3
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
-#EXTINF:-1 tvg-name="C5N 6 no" group-title="General",C5N 6 no
-http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5L3BaTkw0VG1aa1B1TVNoWWpPNjJUWT0
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NXBxVXhyZlNZTlZkV1Q4VDR3ellHcz0
 #EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas",CINE  | HBO .POP  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MHNVamYxM3Jscno5Ym5rbXVaSkR0TT0
-#EXTINF:-1 tvg-name="CINE  | HBO PLUS  HD" group-title="Peliculas",CINE  | HBO PLUS  HD
-http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/120062.ts
 #EXTINF:-1 tvg-name="CINE | GOLDEN  HD" group-title="Deportes",CINE | GOLDEN  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MzdYS3Q5Zi94dHpYNExzRVRubW41ST0
 #EXTINF:-1 tvg-name="CINE | GOLDEN EDG  SD" group-title="Deportes",CINE | GOLDEN EDG  SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5Njc4Q1VnQ0R4Q0pSUXBIL3p4eUVUbz0
+#EXTINF:-1 tvg-name="CINE | GOLDEN PLUS HD" group-title="Deportes",CINE | GOLDEN PLUS HD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MnduWlgxTVBJcEFranpSbjlaOTIxYz0
 #EXTINF:-1 tvg-name="CINE | GOLDEN PLUS SD" group-title="Deportes",CINE | GOLDEN PLUS SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTU5Sm5oVDRnN2IrSzErVkFvVXY5bz0
 #EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  SD" group-title="Deportes",CINE | GOLDEN PREMIER  SD
@@ -32,7 +30,7 @@ http://fivetv.org:25461/PedroDJS433/PedroalaJP/361402
 #EXTINF:-1 tvg-name="GOLDEN HD" group-title="Deportes",GOLDEN HD
 http://planettvweb.com:8091/AnaF56/ANug5094g/17813
 #EXTINF:-1 tvg-name="GOLDEN | AR" group-title="Deportes",GOLDEN | AR
-http://tvfull365.com/live/EdsonRuiz/2paPsUpdVnWa/46142.ts
+http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46142.ts
 #EXTINF:-1 tvg-name="Golden Edge HD" group-title="Deportes",Golden Edge HD
 http://planettvweb.com:8091/AnaF56/ANug5094g/11944
 #EXTINF:-1 tvg-name="HBO (2mb)" group-title="Peliculas",HBO (2mb)
