@@ -5,12 +5,10 @@ http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NXBxVXhyZlNZTlZkV1Q4VDR3ellHcz0
 #EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas",CINE  | HBO .POP  HD
 http://starlatino.tv:8880/live/cristian43/7483837464/414471.m3u8
-#EXTINF:-1 tvg-name="CINE GOLDEN PLUS FHD" group-title="Deportes",CINE GOLDEN PLUS FHD
-http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414515
 #EXTINF:-1 tvg-name="CINE | GOLDEN  HD" group-title="Deportes",CINE | GOLDEN  HD
 http://starlatino.tv:8880/live/cristian43/7483837464/414507.m3u8
 #EXTINF:-1 tvg-name="CINE | GOLDEN  SD" group-title="Deportes",CINE | GOLDEN  SD
-http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414508
+http://starlatino.tv:8880/live/cristian43/7483837464/414508.m3u8
 #EXTINF:-1 tvg-name="CINE | GOLDEN EDG  HD" group-title="Deportes",CINE | GOLDEN EDG  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5ek41Y3RGTzU4Nzh4T0NvblRjOFd5UT0
 #EXTINF:-1 tvg-name="CINE | GOLDEN PLUS HD" group-title="Deportes",CINE | GOLDEN PLUS HD
@@ -44,4 +42,4 @@ http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46150.ts
 #EXTINF:-1 tvg-name="TELEFE no" group-title="General",TELEFE no
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NkprYVN1bi95cjJLM2hKUGZmcC9iST0
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
-http://starlatino.tv:8880/live/cristian43/7483837464/414477.m3u8
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MGFvV1U1dm9rQ1QrUGpHM1VJd2h3RT0
