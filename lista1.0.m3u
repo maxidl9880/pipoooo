@@ -11,10 +11,12 @@ http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414515
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MzdYS3Q5Zi94dHpYNExzRVRubW41ST0
 #EXTINF:-1 tvg-name="CINE | GOLDEN  SD" group-title="Deportes",CINE | GOLDEN  SD
 http://starlatino.tv:8880/live/cristian43/7483837464/414508.m3u8
+#EXTINF:-1 tvg-name="CINE | GOLDEN EDG  HD" group-title="Deportes",CINE | GOLDEN EDG  HD
+http://rdctv.pro:8080/MzJIVi9QaHAwYUE3aTloeHIwc2t4d2FaZUNWeEF4Nml6Zjc3RnJZcGFudkF0TFpHNlpzZ2ZEdE0yWGN0S1E2Nw
 #EXTINF:-1 tvg-name="CINE | GOLDEN PLUS HD" group-title="Deportes",CINE | GOLDEN PLUS HD
-http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MnduWlgxTVBJcEFranpSbjlaOTIxYz0
+http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414516
 #EXTINF:-1 tvg-name="CINE | GOLDEN PLUS SD" group-title="Deportes",CINE | GOLDEN PLUS SD
-http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTU5Sm5oVDRnN2IrSzErVkFvVXY5bz0
+http://starlatino.tv:8880/live/cristian43/7483837464/414517.m3u8
 #EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  HD" group-title="Deportes",CINE | GOLDEN PREMIER  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5eGZrY3ZxQlEwcVZmNnBjamhHUFIxbz0
 #EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  SD" group-title="Deportes",CINE | GOLDEN PREMIER  SD
