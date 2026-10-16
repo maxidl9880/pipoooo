@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AMERICA TV 3" group-title="Noticias",AMERICA TV 3
-http://tvfull365.com/live/Jose2022Ocampo/9G7RZr2Ha9/9476.ts
+http://fivetv.org:25461/PedroDJS433/PedroalaJP/186519
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NXBxVXhyZlNZTlZkV1Q4VDR3ellHcz0
 #EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas",CINE  | HBO .POP  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MHNVamYxM3Jscno5Ym5rbXVaSkR0TT0
+#EXTINF:-1 tvg-name="CINE GOLDEN PLUS FHD" group-title="Deportes",CINE GOLDEN PLUS FHD
+http://starlatino.tv:8880/SilviaPizarroSPS/CAqAAFEd7kUW/414515
 #EXTINF:-1 tvg-name="CINE | GOLDEN  HD" group-title="Deportes",CINE | GOLDEN  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MzdYS3Q5Zi94dHpYNExzRVRubW41ST0
 #EXTINF:-1 tvg-name="CINE | GOLDEN  SD" group-title="Deportes",CINE | GOLDEN  SD
@@ -26,7 +28,7 @@ http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NU5ZcTJaMHZ5Si9BMmx2L2RlbGZ
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  SD" group-title="Peliculas",CINE | HBO FAMILY  SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTQ1bHk1TjdjOElYN2tIL0pjVWJjZz0
 #EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
-http://auth.urlsync.gy/live/sergiocsilveira/p2e4mi3lkv9/37104.ts
+http://auth.urlsync.gy/live/SkynetRilton/nt6tfgz2qyp/37104.ts
 #EXTINF:-1 tvg-name="GOLDEN" group-title="Deportes",GOLDEN
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5N3FSSzZiY1JwUFc4WWdRem5HYm4xQT0
 #EXTINF:-1 tvg-name="HBO  HD" group-title="Peliculas",HBO  HD
