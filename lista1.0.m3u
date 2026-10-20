@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PR | Wapa America" group-title="General",PR | Wapa America
-http://tvfull365.com/live/Jose2022Ocampo/9G7RZr2Ha9/712703.ts
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="C5N 1 no" group-title="Noticias",C5N 1 no
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/90964
 #EXTINF:-1 tvg-name="C5N 6 no" group-title="Noticias",C5N 6 no
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5L3BaTkw0VG1aa1B1TVNoWWpPNjJUWT0
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
-http://legion19xbc20.work/live/BrisasLG2781/weRgNr9MVH/96203.ts
+http://auth.urlsync.gy/live/778893vip/9bfvd8abcca/36911.ts
+#EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas",CINE  | HBO .POP  HD
+http://rdctv.pro:8080/MzJIVi9QaHAwYUE3aTloeHIwc2t4MEdvajRHM3R6bjdWdFl1bDV0ZzBGMUNISnFTYThSSmhDc0NhVWQzUEkvNA
 #EXTINF:-1 tvg-name="CINE  | HBO PLUS  HD" group-title="Peliculas",CINE  | HBO PLUS  HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MXF1bWt1MUY4WDFqTVNCRTl5U0pWWT0
 #EXTINF:-1 tvg-name="CINE - HBO 2 (L)(720)" group-title="Peliculas",CINE - HBO 2 (L)(720)
@@ -26,7 +28,7 @@ http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NDBNRmVrMFNYdDA4WXhMaFd4SUx
 #EXTINF:-1 tvg-name="CINE | HBO 2 HD" group-title="Peliculas",CINE | HBO 2 HD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MTlsSm5zdHJNTWk4ZmZRbjFpb3BHYz0
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas",CINE | HBO FAMILY  HD
-http://rey-premium.online/live/Fabian2408kec/hVrmNAX3PE/46152.ts
+http://rey-premium.online/live/Giperu2407pe/53dY935vs9/46153.ts
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  SD" group-title="Peliculas",CINE | HBO FAMILY  SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTQ1bHk1TjdjOElYN2tIL0pjVWJjZz0
 #EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
@@ -38,6 +40,6 @@ http://stejar.matrivagoweb.com:8080/teamcontrol/SZarYRKckT/196203
 #EXTINF:-1 tvg-name="HBO  SD 1" group-title="Peliculas",HBO  SD 1
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/186498
 #EXTINF:-1 tvg-name="TELEFE no" group-title="Noticias",TELEFE no
-http://rey-premium.online/live/Giperu2407pe/53dY935vs9/712715.ts
+http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712714.ts
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
 http://planettvweb.com:8091/AnaF56/ANug5094g/11669
