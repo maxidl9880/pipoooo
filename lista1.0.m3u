@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PR | Wapa America" group-title="General",PR | Wapa America
-http://rey-premium.online/live/Giperu2407pe/53dY935vs9/90088.ts
+http://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="C5N 1 no" group-title="Noticias",C5N 1 no
-http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712705.ts
+http://rey-premium.online/live/Giperu2407pe/53dY935vs9/712705.ts
 #EXTINF:-1 tvg-name="C5N 6 no" group-title="Noticias",C5N 6 no
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5L3BaTkw0VG1aa1B1TVNoWWpPNjJUWT0
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
