@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PR | Wapa America" group-title="General",PR | Wapa America
-http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712703.ts
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="C5N 1 no" group-title="Noticias",C5N 1 no
 http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712705.ts
 #EXTINF:-1 tvg-name="C5N 6 no" group-title="Noticias",C5N 6 no
@@ -46,6 +46,6 @@ http://planettvweb.com:8091/AnaF56/ANug5094g/24710
 #EXTINF:-1 tvg-name="HBO LATINO" group-title="Peliculas",HBO LATINO
 http://rdctv.pro:8080/MzJIVi9QaHAwYUE3aTloeHIwc2t4NkZRa3hKakp0NDlmZHg0Qkg2VGEvQU8za1QyQUZidElJdW1WUkJ0WlN5Tg
 #EXTINF:-1 tvg-name="TELEFE no" group-title="Noticias",TELEFE no
-http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712714.ts
+http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712715.ts
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
 http://planettvweb.com:8091/AnaF56/ANug5094g/11669
