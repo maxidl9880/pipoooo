@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PR | Wapa America" group-title="General",PR | Wapa America
-http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/9478.ts
+http://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="C5N 1 no" group-title="Noticias",C5N 1 no
 http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712705.ts
 #EXTINF:-1 tvg-name="C5N 6 no" group-title="Noticias",C5N 6 no
@@ -46,4 +46,4 @@ http://rdctv.pro:8080/MzJIVi9QaHAwYUE3aTloeHIwc2t4NkZRa3hKakp0NDlmZHg0Qkg2VGEvQU
 #EXTINF:-1 tvg-name="TELEFE no" group-title="Noticias",TELEFE no
 http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/712714.ts
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
-http://auth.urlsync.gy/live/Tamara751/bnn07bfhu7o/37041.ts
+http://auth.urlsync.gy/live/Tamara751/bnn07bfhu7o/41505.ts
