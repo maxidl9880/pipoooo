@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PR | Wapa America" group-title="General",PR | Wapa America
-http://rey-premium.online/live/Fabian2408kec/hVrmNAX3PE/90088.ts
+http://rey-premium.online/live/Fabian2408kec/hVrmNAX3PE/80357.ts
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
 http://planettvweb.com:8091/AnaF56/ANug5094g/16284
 #EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas",CINE  | HBO .POP  HD
@@ -24,15 +24,17 @@ http://planettvweb.com:8091/AnaF56/ANug5094g/88282
 #EXTINF:-1 tvg-name="CINE | GOLDEN PLUS SD" group-title="Deportes",CINE | GOLDEN PLUS SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTU5Sm5oVDRnN2IrSzErVkFvVXY5bz0
 #EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  HD" group-title="Deportes",CINE | GOLDEN PREMIER  HD
-http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/46140.ts
+http://rey-premium.online/live/Fabian2408kec/hVrmNAX3PE/46141.ts
 #EXTINF:-1 tvg-name="CINE | HBO 2  SD" group-title="Peliculas",CINE | HBO 2  SD
 http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NDBNRmVrMFNYdDA4WXhMaFd4SUxvST0
+#EXTINF:-1 tvg-name="CINE | HBO 2 HD" group-title="Peliculas",CINE | HBO 2 HD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MTlsSm5zdHJNTWk4ZmZRbjFpb3BHYz0
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas",CINE | HBO FAMILY  HD
-http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/46152.ts
+http://rey-premium.online/live/Giperu2407pe/53dY935vs9/46152.ts
 #EXTINF:-1 tvg-name="CINE | HBO FAMILY  SD" group-title="Peliculas",CINE | HBO FAMILY  SD
 http://planettvweb.com:8091/AnaF56/ANug5094g/11653
 #EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
-http://rey-premium.online/live/Merci2211galle/KqW3FqKfXn/591975.ts
+http://rey-premium.online/live/Giperu2407pe/53dY935vs9/591975.ts
 #EXTINF:-1 tvg-name="HBO" group-title="Series",HBO
 http://fivetv.org:25461/PedroDJS433/PedroalaJP/361405
 #EXTINF:-1 tvg-name="HBO  HD" group-title="Peliculas",HBO  HD
