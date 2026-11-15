@@ -5,6 +5,8 @@ http://fivetv.org:25461/kelv48627/pretv8539/186822.ts
 http://fivetv.org:25461/kelv48627/pretv8539/90964.ts
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
 http://fivetv.org:25461/kelv48627/pretv8539/186499.ts
+#EXTINF:-1 tvg-name="CINE  | HBO PLUS  FHD" group-title="Peliculas",CINE  | HBO PLUS  FHD
+http://fivetv.org:25461/kelv48627/pretv8539/361406.ts
 #EXTINF:-1 tvg-name="CINE - HBO (TV)(1080)" group-title="Peliculas",CINE - HBO (TV)(1080)
 http://fivetv.org:25461/kelv48627/pretv8539/186494.ts
 #EXTINF:-1 tvg-name="CINE - HBO 2 (L)(720)" group-title="Peliculas",CINE - HBO 2 (L)(720)
