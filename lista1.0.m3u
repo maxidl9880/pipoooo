@@ -1,25 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PR | Wapa America" group-title="General",PR | Wapa America
-http://fivetv.org:25461/kelv48627/pretv8539/186822.ts
-#EXTINF:-1 tvg-name="C5N 1 no" group-title="Noticias",C5N 1 no
-http://fivetv.org:25461/kelv48627/pretv8539/90964.ts
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5d3VhVTN2Um5uN1VMRWZwRWFwYmlNST0
 #EXTINF:-1 tvg-name="CINE  | *HBO* POP SD" group-title="Peliculas",CINE  | *HBO* POP SD
-http://fivetv.org:25461/kelv48627/pretv8539/186499.ts
+http://planettvweb.com:8091/AnaF56/ANug5094g/16284
 #EXTINF:-1 tvg-name="CINE  | HBO PLUS  FHD" group-title="Peliculas",CINE  | HBO PLUS  FHD
-http://fivetv.org:25461/kelv48627/pretv8539/361406.ts
+http://planettvweb.com:8091/AnaF56/ANug5094g/11646
+#EXTINF:-1 tvg-name="CINE  | HBO PLUS  HD" group-title="Peliculas",CINE  | HBO PLUS  HD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MXF1bWt1MUY4WDFqTVNCRTl5U0pWWT0
 #EXTINF:-1 tvg-name="CINE - HBO (TV)(1080)" group-title="Peliculas",CINE - HBO (TV)(1080)
 http://fivetv.org:25461/kelv48627/pretv8539/186494.ts
 #EXTINF:-1 tvg-name="CINE - HBO 2 (L)(720)" group-title="Peliculas",CINE - HBO 2 (L)(720)
 http://planettvweb.com:8091/AnaF56/ANug5094g/11656
+#EXTINF:-1 tvg-name="CINE - HBO 2 (TV)(1080)" group-title="Peliculas",CINE - HBO 2 (TV)(1080)
+http://fortv.cc:8080/misstng86@yahoo.com/tefTyvYQ6A/9816
 #EXTINF:-1 tvg-name="CINE GOLDEN PLUS FHD" group-title="Deportes",CINE GOLDEN PLUS FHD
-http://fivetv.org:25461/kelv48627/pretv8539/186491.ts
+http://stejar.matrivagoweb.com:8080/movie/Mx93C4Zw3KFc/hV6hDBCvdhQN/220462.mkv
+#EXTINF:-1 tvg-name="CINE | GOLDEN  HD" group-title="Deportes",CINE | GOLDEN  HD
+http://planettvweb.com:8091/AnaF56/ANug5094g/11705
 #EXTINF:-1 tvg-name="CINE | GOLDEN EDG  HD" group-title="Deportes",CINE | GOLDEN EDG  HD
-http://planettvweb.com:8091/AnaF56/ANug5094g/11944
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5ek41Y3RGTzU4Nzh4T0NvblRjOFd5UT0
+#EXTINF:-1 tvg-name="CINE | GOLDEN PLUS SD" group-title="Deportes",CINE | GOLDEN PLUS SD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTU5Sm5oVDRnN2IrSzErVkFvVXY5bz0
+#EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  HD" group-title="Deportes",CINE | GOLDEN PREMIER  HD
+http://fivetv.org:25461/kelv48627/pretv8539/361403.ts
+#EXTINF:-1 tvg-name="CINE | HBO 2  SD" group-title="Peliculas",CINE | HBO 2  SD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NDBNRmVrMFNYdDA4WXhMaFd4SUxvST0
+#EXTINF:-1 tvg-name="CINE | HBO 2 HD" group-title="Peliculas",CINE | HBO 2 HD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5MTlsSm5zdHJNTWk4ZmZRbjFpb3BHYz0
+#EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas",CINE | HBO FAMILY  HD
+http://fivetv.org:25461/kelv48627/pretv8539/187565.ts
+#EXTINF:-1 tvg-name="CINE | HBO FAMILY  SD" group-title="Peliculas",CINE | HBO FAMILY  SD
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NTQ1bHk1TjdjOElYN2tIL0pjVWJjZz0
+#EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5K0pPbmRmMjk2cmpNK0ZmQ2dXU3pMMD0
 #EXTINF:-1 tvg-name="HBO" group-title="Series",HBO
-http://planettvweb.com:8091/AnaF56/ANug5094g/24710
+http://planettvweb.com:8091/AnaF56/ANug5094g/11650
 #EXTINF:-1 tvg-name="HBO  SD 1" group-title="Peliculas",HBO  SD 1
-http://fivetv.org:25461/kelv48627/pretv8539/186498.ts
+http://planettvweb.com:8091/AnaF56/ANug5094g/11649
 #EXTINF:-1 tvg-name="TELEFE no" group-title="Noticias",TELEFE no
-http://fivetv.org:25461/kelv48627/pretv8539/186517.ts
+http://zonacero.lat:8080/TTZITmtIU2p0YWVTeElNejk0dzU5NkprYVN1bi95cjJLM2hKUGZmcC9iST0
 #EXTINF:-1 tvg-name="TNT SERIES 1" group-title="Series",TNT SERIES 1
-http://fivetv.org:25461/kelv48627/pretv8539/91335.ts
+http://planettvweb.com:8091/AnaF56/ANug5094g/11623
